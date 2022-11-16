@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import cityData from "../../../traveler_app/src/data/destinations";
+import cityData from "../../data/destinations";
 import axios from "axios";
 import {
   Container,
