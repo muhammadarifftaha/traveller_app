@@ -1,0 +1,2621 @@
+{
+  "results": [
+    {
+      "fsq_id": "4b9ff646f964a520f44d37e3",
+      "categories": [
+        {
+          "id": 16041,
+          "name": "Plaza",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/plaza_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "distance": 247,
+      "hours": {
+        "display": "Open Daily 0:00-24:00",
+        "is_local_holiday": false,
+        "open_now": true,
+        "regular": [
+          {
+            "close": "+0000",
+            "day": 1,
+            "open": "0000"
+          },
+          {
+            "close": "+0000",
+            "day": 2,
+            "open": "0000"
+          },
+          {
+            "close": "+0000",
+            "day": 3,
+            "open": "0000"
+          },
+          {
+            "close": "+0000",
+            "day": 4,
+            "open": "0000"
+          },
+          {
+            "close": "+0000",
+            "day": 5,
+            "open": "0000"
+          },
+          {
+            "close": "+0000",
+            "day": 6,
+            "open": "0000"
+          },
+          {
+            "close": "+0000",
+            "day": 7,
+            "open": "0000"
+          }
+        ],
+        "seasonal": []
+      },
+      "location": {
+        "address": "Dam",
+        "country": "NL",
+        "cross_street": "",
+        "formatted_address": "Dam, 1012 NP Amsterdam",
+        "locality": "Amsterdam",
+        "postcode": "1012 NP",
+        "region": "North Holland"
+      },
+      "name": "Dam",
+      "photos": [
+        {
+          "id": "51bd9394498e013b27fe0d6b",
+          "created_at": "2013-06-16T10:29:40.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/6004486_9uVYcdj9QfIb7S-_wxf9c7YN2Rg-zaBNz41wIdllDDo.jpg",
+          "width": 960,
+          "height": 720
+        },
+        {
+          "id": "51825b1c498e95fa161b2171",
+          "created_at": "2013-05-02T12:25:00.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/23588540_rr_esu_nsQv4yy8lXkbrcOvbCKbsii1PcRNBBrmvK1Y.jpg",
+          "width": 1440,
+          "height": 1440,
+          "classifications": ["outdoor"]
+        },
+        {
+          "id": "519bdaa7498e54dc96dfff6a",
+          "created_at": "2013-05-21T20:35:51.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/41593755_kUR8Z4X3TRRlHajnfdXWguMhMkcOxZZsWkj2pVaTwWo.jpg",
+          "width": 960,
+          "height": 720
+        },
+        {
+          "id": "517f8bfe498e1a241c691284",
+          "created_at": "2013-04-30T09:16:46.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/8475523_nAWd5F98Yd1ZI1QOWqOgVz48SnGUt2Z3pXfwOT5i_3I.jpg",
+          "width": 1920,
+          "height": 1440
+        },
+        {
+          "id": "518d3275498e27ff5bd65d0c",
+          "created_at": "2013-05-10T17:46:29.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/23441488_LTLz4SggXIFo7mXrOfSkmGWknhN1HlMHsZjXQyHpBpU.jpg",
+          "width": 720,
+          "height": 960
+        }
+      ],
+      "rating": 9,
+      "social_media": {}
+    },
+    {
+      "fsq_id": "4a27071df964a520f98c1fe3",
+      "categories": [
+        {
+          "id": 13003,
+          "name": "Bar",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13034,
+          "name": "Café",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13065,
+          "name": "Restaurant",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "description": "The Vondelpark is Amsterdam's most popular park, attracting tourists, residents, and everyone in between. It was designed by landscape architect L.D. Zocher and has been awarded national heritage status.",
+      "distance": 2338,
+      "hours": {
+        "display": "Mon-Fri 00:00-1:00, 8:30-23:59; Sat-Sun 00:00-2:00, 8:30-23:59",
+        "is_local_holiday": false,
+        "open_now": true,
+        "regular": [
+          {
+            "close": "0100",
+            "day": 1,
+            "open": "0000"
+          },
+          {
+            "close": "2359",
+            "day": 1,
+            "open": "0830"
+          },
+          {
+            "close": "0100",
+            "day": 2,
+            "open": "0000"
+          },
+          {
+            "close": "2359",
+            "day": 2,
+            "open": "0830"
+          },
+          {
+            "close": "0100",
+            "day": 3,
+            "open": "0000"
+          },
+          {
+            "close": "2359",
+            "day": 3,
+            "open": "0830"
+          },
+          {
+            "close": "0100",
+            "day": 4,
+            "open": "0000"
+          },
+          {
+            "close": "2359",
+            "day": 4,
+            "open": "0830"
+          },
+          {
+            "close": "0100",
+            "day": 5,
+            "open": "0000"
+          },
+          {
+            "close": "2359",
+            "day": 5,
+            "open": "0830"
+          },
+          {
+            "close": "0200",
+            "day": 6,
+            "open": "0000"
+          },
+          {
+            "close": "2359",
+            "day": 6,
+            "open": "0830"
+          },
+          {
+            "close": "0200",
+            "day": 7,
+            "open": "0000"
+          },
+          {
+            "close": "2359",
+            "day": 7,
+            "open": "0830"
+          }
+        ],
+        "seasonal": []
+      },
+      "location": {
+        "address": "Vondelpark 3",
+        "country": "NL",
+        "formatted_address": "Vondelpark 3, Amsterdam",
+        "locality": "Amsterdam",
+        "neighborhood": ["Overtoomse Sluis"],
+        "region": "North Holland"
+      },
+      "name": "Vondelpark",
+      "photos": [
+        {
+          "id": "51eff5b9498e48469b2fa188",
+          "created_at": "2013-07-24T15:41:45.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/48725880_3-g4pkFpcyr01pXAq5AAjft1oL0wQMXucoqKqIWzd9I.jpg",
+          "width": 612,
+          "height": 612,
+          "classifications": ["outdoor"]
+        },
+        {
+          "id": "5024e80ae4b061fce742d2d8",
+          "created_at": "2012-08-10T10:52:58.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/RfPms_BXtJIrn0-K-I6My6OLOs4sIrnLhWkO6Tn-kG4.jpg",
+          "width": 612,
+          "height": 612,
+          "classifications": ["outdoor"]
+        },
+        {
+          "id": "51f6b0ad498e5765408bed43",
+          "created_at": "2013-07-29T18:13:01.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/6843704_uzCpBP23ph3gcpQ44xkTe5EJQnIW0CiDEu_injH7BNs.jpg",
+          "width": 960,
+          "height": 720
+        },
+        {
+          "id": "51c6f9ef498e793c479cbfa7",
+          "created_at": "2013-06-23T13:36:47.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/19755734_5gas2TVqwt6EC2QtWnv9ttubNsLkLjnov-Sj4lO6tIA.jpg",
+          "width": 960,
+          "height": 720,
+          "classifications": ["outdoor"]
+        },
+        {
+          "id": "518140ce498ea1f994e7f9a7",
+          "created_at": "2013-05-01T16:20:30.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/37539962_tgsfCCbl1noIEMo1DUpSItpygME_zYHzDptadRcib6Y.jpg",
+          "width": 612,
+          "height": 612
+        }
+      ],
+      "rating": 9.5,
+      "social_media": {
+        "facebook_id": "494621183955328"
+      }
+    },
+    {
+      "fsq_id": "4a270706f964a520bd8c1fe3",
+      "categories": [
+        {
+          "id": 10027,
+          "name": "Museum",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/museum_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "distance": 1600,
+      "hours": {
+        "display": "Open Daily 9:00-17:00",
+        "is_local_holiday": false,
+        "open_now": false,
+        "regular": [
+          {
+            "close": "1700",
+            "day": 1,
+            "open": "0900"
+          },
+          {
+            "close": "1700",
+            "day": 2,
+            "open": "0900"
+          },
+          {
+            "close": "1700",
+            "day": 3,
+            "open": "0900"
+          },
+          {
+            "close": "1700",
+            "day": 4,
+            "open": "0900"
+          },
+          {
+            "close": "1700",
+            "day": 5,
+            "open": "0900"
+          },
+          {
+            "close": "1700",
+            "day": 6,
+            "open": "0900"
+          },
+          {
+            "close": "1700",
+            "day": 7,
+            "open": "0900"
+          }
+        ],
+        "seasonal": []
+      },
+      "location": {
+        "address": "Museumstraat 1",
+        "country": "NL",
+        "cross_street": "",
+        "formatted_address": "Museumstraat 1, 1071 CJ Amsterdam",
+        "locality": "Amsterdam",
+        "neighborhood": ["Museum Quarter (Museumkwartier)"],
+        "postcode": "1071 CJ",
+        "region": "North Holland"
+      },
+      "name": "Rijksmuseum",
+      "photos": [
+        {
+          "id": "5182771a498ee5bb443d9de0",
+          "created_at": "2013-05-02T14:24:26.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/18992854_yWJcpXlrr-sjh9i8qvv95Wyhj4HRv4me0MgIZRstiF4.jpg",
+          "width": 612,
+          "height": 612,
+          "classifications": ["outdoor"]
+        },
+        {
+          "id": "5187bb30498ef53a1d5dd982",
+          "created_at": "2013-05-06T14:16:16.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/1974426_6K8ge3wWKmCSJ1hJNHPy9yXewdvPXoS4BejWeR18gpU.jpg",
+          "width": 612,
+          "height": 612
+        },
+        {
+          "id": "519f3d0d498e62973760603d",
+          "created_at": "2013-05-24T10:12:29.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/43785458_6sQqL_wnMXjBLglZW5PX55DFuwL8Jp3Pd-YUPYdz1R0.jpg",
+          "width": 612,
+          "height": 612,
+          "classifications": ["outdoor"]
+        },
+        {
+          "id": "51989411498e2ebedc8ebd96",
+          "created_at": "2013-05-19T08:57:53.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/43078809_oDIZsNuSoj1aq9juSDnXxDAjt1m5CT6VbuiWC8tVkPU.jpg",
+          "width": 960,
+          "height": 720,
+          "classifications": ["outdoor"]
+        },
+        {
+          "id": "51805e26498e90c761a645f2",
+          "created_at": "2013-05-01T00:13:26.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/16794425_Dq7tjvxmdgJuEbQFWrBHY_UqXPb47xX_bdhJdJ_RxvQ.jpg",
+          "width": 612,
+          "height": 612,
+          "classifications": ["outdoor"]
+        }
+      ],
+      "price": 2,
+      "rating": 9.3,
+      "social_media": {
+        "facebook_id": "253769920176",
+        "instagram": "rijksmuseum",
+        "twitter": "rijksmuseum"
+      }
+    },
+    {
+      "fsq_id": "4a27071ef964a520ff8c1fe3",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "description": "Het Westerpark is een park in Amsterdam-West. De aanleg van het park startte in 1890. Inmiddels is het Westergasfabriekterrein na een renovatie als parkgebied toegevoegd aan het Westerpark. De historische gebouwen zijn gerenoveerd en worden gebruikt door creatieve en culturele ondernemers.",
+      "distance": 1908,
+      "hours": {
+        "display": "Open Daily 0:00-12:00",
+        "is_local_holiday": false,
+        "open_now": false,
+        "regular": [
+          {
+            "close": "1200",
+            "day": 1,
+            "open": "0000"
+          },
+          {
+            "close": "1200",
+            "day": 2,
+            "open": "0000"
+          },
+          {
+            "close": "1200",
+            "day": 3,
+            "open": "0000"
+          },
+          {
+            "close": "1200",
+            "day": 4,
+            "open": "0000"
+          },
+          {
+            "close": "1200",
+            "day": 5,
+            "open": "0000"
+          },
+          {
+            "close": "1200",
+            "day": 6,
+            "open": "0000"
+          },
+          {
+            "close": "1200",
+            "day": 7,
+            "open": "0000"
+          }
+        ],
+        "seasonal": []
+      },
+      "location": {
+        "address": "Haarlemmerweg",
+        "country": "NL",
+        "formatted_address": "Haarlemmerweg, Amsterdam",
+        "locality": "Amsterdam",
+        "region": "North Holland"
+      },
+      "name": "Westerpark",
+      "photos": [
+        {
+          "id": "51eb550a498eef3c93f88f3a",
+          "created_at": "2013-07-21T03:27:06.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/43240590_mmjbJySMQfKvRWedakSzwwrWuU72L-y7nnmt35vGJGE.jpg",
+          "width": 612,
+          "height": 612
+        },
+        {
+          "id": "50a8d0bce4b0354baf0660cb",
+          "created_at": "2012-11-18T12:12:44.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/803696_-Ed6eGQ-iiF5_wDDjDE3k4HIfR1KMR2IaCbDa_fk9_M.jpg",
+          "width": 720,
+          "height": 540,
+          "classifications": ["outdoor"]
+        },
+        {
+          "id": "50436dc6e4b06a01bb029439",
+          "created_at": "2012-09-02T14:31:34.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/RzktDDUipsnYoZWZqs2UDU554mMXu4FlKzxJ0eFSQZc.jpg",
+          "width": 720,
+          "height": 540,
+          "classifications": ["outdoor"]
+        },
+        {
+          "id": "51daefb8498e240a79bc42a4",
+          "created_at": "2013-07-08T16:58:32.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/7596660_dVFNNnm_SbS8wWb3Xp2p0wpH3HwrYy4AYCKaLNUvXY8.jpg",
+          "width": 960,
+          "height": 720
+        },
+        {
+          "id": "518c0cb4498ef44c742ec32e",
+          "created_at": "2013-05-09T20:53:08.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/405729_guCO0xqfXZdHSerlhhfdP066IJIRoLl_LJkVgHCP6rY.jpg",
+          "width": 1920,
+          "height": 1440
+        }
+      ],
+      "rating": 9.4,
+      "social_media": {}
+    },
+    {
+      "fsq_id": "4a28509ef964a5200c951fe3",
+      "categories": [
+        {
+          "id": 16041,
+          "name": "Plaza",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/plaza_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "distance": 1924,
+      "hours": {
+        "display": "Open Daily 0:00-24:00",
+        "is_local_holiday": false,
+        "open_now": true,
+        "regular": [
+          {
+            "close": "+0000",
+            "day": 1,
+            "open": "0000"
+          },
+          {
+            "close": "+0000",
+            "day": 2,
+            "open": "0000"
+          },
+          {
+            "close": "+0000",
+            "day": 3,
+            "open": "0000"
+          },
+          {
+            "close": "+0000",
+            "day": 4,
+            "open": "0000"
+          },
+          {
+            "close": "+0000",
+            "day": 5,
+            "open": "0000"
+          },
+          {
+            "close": "+0000",
+            "day": 6,
+            "open": "0000"
+          },
+          {
+            "close": "+0000",
+            "day": 7,
+            "open": "0000"
+          }
+        ],
+        "seasonal": []
+      },
+      "location": {
+        "address": "Museumplein",
+        "country": "NL",
+        "formatted_address": "Museumplein, Amsterdam",
+        "locality": "Amsterdam",
+        "region": "North Holland"
+      },
+      "name": "Museumplein",
+      "photos": [
+        {
+          "id": "4fe81303e4b0a0c3b0f50599",
+          "created_at": "2012-06-25T07:28:03.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/1scaFdFiG9DsiM4-juiyXV6Q6CEaOnzgiQ4YMbjkG9g.jpg",
+          "width": 612,
+          "height": 612,
+          "classifications": ["outdoor"]
+        },
+        {
+          "id": "5173e806e4b0a0a1c7300a42",
+          "created_at": "2013-04-21T13:22:14.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/7960765_-JGuqEdd7AIHBh3OpI0O2ciNHyZU-uicolheHeXkDdE.jpg",
+          "width": 960,
+          "height": 540,
+          "classifications": ["outdoor"]
+        },
+        {
+          "id": "503fbc1ae4b04fe2f20d6060",
+          "created_at": "2012-08-30T19:16:42.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/afKG2r6ZkSTR4J1dx75Dc6tiVwUhhZw6fXm8c11dWW0.jpg",
+          "width": 612,
+          "height": 612,
+          "classifications": ["outdoor"]
+        },
+        {
+          "id": "516ba1dce4b0b080b4e3e14b",
+          "created_at": "2013-04-15T06:44:44.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/40770492_ub3FL0zdklbjVp7c2w6r4gQJWBU_ctmyusdSQONUKYA.jpg",
+          "width": 1440,
+          "height": 1440
+        },
+        {
+          "id": "517fa001e4b00ad0022f0994",
+          "created_at": "2013-04-30T10:42:09.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/14664745_QmUfEaTk2s_kdRdcvyYRAJ9utG666vOKoUO_hvUJOFg.jpg",
+          "width": 1920,
+          "height": 1440
+        }
+      ],
+      "rating": 9.3,
+      "social_media": {}
+    },
+    {
+      "fsq_id": "4b064d52f964a52086ea22e3",
+      "categories": [
+        {
+          "id": 17114,
+          "name": "Shopping Mall",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/mall_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "distance": 492,
+      "hours": {
+        "is_local_holiday": false,
+        "open_now": false,
+        "seasonal": []
+      },
+      "location": {
+        "address": "tussen Prinsengracht en Singel",
+        "country": "NL",
+        "formatted_address": "tussen Prinsengracht en Singel, Amsterdam",
+        "locality": "Amsterdam",
+        "region": "North Holland"
+      },
+      "name": "9 Straatjes",
+      "photos": [
+        {
+          "id": "51174b69e4b01c5945e64f40",
+          "created_at": "2013-02-10T07:25:29.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/1104533_rxjombv2FKfl1d6Qj6VDMCsYwAxFHmNeGTwh7UtVOk0.jpg",
+          "width": 612,
+          "height": 612,
+          "classifications": ["outdoor"]
+        },
+        {
+          "id": "518beeae498e37ef3eb0b320",
+          "created_at": "2013-05-09T18:45:02.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/1795564_PAADnr1t1a3THzkYsHb2liArdo9hiCW5cIj09uvqspQ.jpg",
+          "width": 612,
+          "height": 612,
+          "classifications": ["outdoor"]
+        },
+        {
+          "id": "51a26365498e4690350eb7c0",
+          "created_at": "2013-05-26T19:32:53.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/3999662_zznqcG-QQ32cMco2O3foXdnTtVl1epjGBDLxTKeQjHg.jpg",
+          "width": 720,
+          "height": 960,
+          "classifications": ["outdoor"]
+        },
+        {
+          "id": "518ecdee498e9c894a32066b",
+          "created_at": "2013-05-11T23:02:06.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/3867165_eb9-ge2tBm35xc-ra4WjS1PyVvJjqKA-TMX2uD1VWRM.jpg",
+          "width": 612,
+          "height": 612,
+          "classifications": ["outdoor"]
+        },
+        {
+          "id": "50d86e3ee4b0b55bcd3038d1",
+          "created_at": "2012-12-24T15:01:18.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/1104533_Vb43oauWJF2HwiYOOdAheHboyjWpZTI-NgQ5RbgZ26s.jpg",
+          "width": 612,
+          "height": 612,
+          "classifications": ["outdoor"]
+        }
+      ],
+      "rating": 9.1,
+      "social_media": {
+        "facebook_id": "246530458700244",
+        "twitter": "de9straatjes"
+      }
+    },
+    {
+      "fsq_id": "4c11d1448559ef3b9cd06a53",
+      "categories": [
+        {
+          "id": 10039,
+          "name": "Music Venue",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/musicvenue_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 10042,
+          "name": "Opera House",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/performingarts_operahouse_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "distance": 2917,
+      "hours": {
+        "is_local_holiday": false,
+        "open_now": false,
+        "seasonal": []
+      },
+      "location": {
+        "address": "tt. Neveritaweg 61",
+        "country": "NL",
+        "cross_street": "Mt. Ondinaweg",
+        "formatted_address": "tt. Neveritaweg 61 (Mt. Ondinaweg), 1033 WB Amsterdam",
+        "locality": "Amsterdam",
+        "postcode": "1033 WB",
+        "region": "North Holland"
+      },
+      "name": "NDSM Wharf (NDSM Werf)",
+      "photos": [
+        {
+          "id": "4f9eb7a6e4b008dde3628897",
+          "created_at": "2012-04-30T16:02:46.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/w1vLbSMZ6ZPIYkOv6hQ6WDFuDwcosWLB8toK8a92l18.jpg",
+          "width": 612,
+          "height": 612
+        },
+        {
+          "id": "51a744d0498e15dc5396c3ab",
+          "created_at": "2013-05-30T12:23:44.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/49216259_6PvFicsVYsmkKSh9NdlVvLCFv38Gau9SE_FOzwRm2Pw.jpg",
+          "width": 1920,
+          "height": 1440
+        },
+        {
+          "id": "50c87bf0498e50cfc74bbbcd",
+          "created_at": "2012-12-12T12:43:28.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/100866_ZaYxoicGonmg_5EFx0GZrd2B9y4ISZxEtED-yuPLaWE.jpg",
+          "width": 612,
+          "height": 612,
+          "classifications": ["outdoor"]
+        },
+        {
+          "id": "5561b363498e6562748b0c6d",
+          "created_at": "2015-05-24T11:17:55.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/29796330_8t_pPHqxyojbwNKqL1S6E0pZ18VKehVyubjMMOnTvnM.jpg",
+          "width": 1920,
+          "height": 1440
+        },
+        {
+          "id": "5114a825e4b0dff46689edc6",
+          "created_at": "2013-02-08T07:24:21.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/7258606_0FzlKoVsC6UPRa7is7RuUwQ8GcW5PQG1kCpaRiATSOc.jpg",
+          "width": 612,
+          "height": 612
+        }
+      ],
+      "rating": 9.2,
+      "social_media": {
+        "facebook_id": "134178166598046",
+        "twitter": "ndsm_werf"
+      }
+    },
+    {
+      "fsq_id": "4de6588a18389f0558772bbf",
+      "categories": [
+        {
+          "id": 13013,
+          "name": "Hotel Bar",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_bar_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13016,
+          "name": "Lounge",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/default_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13065,
+          "name": "Restaurant",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "description": "The SkyLounge with SkyTerrace is one of the most unique places in Amsterdam. From the 11th floor at the DoubleTree by Hilton Hotel you will have a 360 degree view of the skyline of the city.",
+      "distance": 1095,
+      "hours": {
+        "display": "Mon-Fri 00:00-1:00, 11:00-23:59; Sat-Sun 00:00-3:00, 11:00-23:59",
+        "is_local_holiday": false,
+        "open_now": true,
+        "regular": [
+          {
+            "close": "0100",
+            "day": 1,
+            "open": "0000"
+          },
+          {
+            "close": "2359",
+            "day": 1,
+            "open": "1100"
+          },
+          {
+            "close": "0100",
+            "day": 2,
+            "open": "0000"
+          },
+          {
+            "close": "2359",
+            "day": 2,
+            "open": "1100"
+          },
+          {
+            "close": "0100",
+            "day": 3,
+            "open": "0000"
+          },
+          {
+            "close": "2359",
+            "day": 3,
+            "open": "1100"
+          },
+          {
+            "close": "0100",
+            "day": 4,
+            "open": "0000"
+          },
+          {
+            "close": "2359",
+            "day": 4,
+            "open": "1100"
+          },
+          {
+            "close": "0100",
+            "day": 5,
+            "open": "0000"
+          },
+          {
+            "close": "2359",
+            "day": 5,
+            "open": "1100"
+          },
+          {
+            "close": "0300",
+            "day": 6,
+            "open": "0000"
+          },
+          {
+            "close": "2359",
+            "day": 6,
+            "open": "1100"
+          },
+          {
+            "close": "0300",
+            "day": 7,
+            "open": "0000"
+          },
+          {
+            "close": "2359",
+            "day": 7,
+            "open": "1100"
+          }
+        ],
+        "seasonal": []
+      },
+      "location": {
+        "address": "Oosterdoksstraat 4",
+        "country": "NL",
+        "cross_street": "",
+        "formatted_address": "Oosterdoksstraat 4, 1011 DK Amsterdam",
+        "locality": "Amsterdam",
+        "neighborhood": ["Centrum"],
+        "postcode": "1011 DK",
+        "region": "North Holland"
+      },
+      "name": "SkyLounge Amsterdam",
+      "photos": [
+        {
+          "id": "50f663e1e4b01305774434f3",
+          "created_at": "2013-01-16T08:25:05.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/1360602_gqibMp7jqurUsFvGSDbtKt3LVoOxp_BPU2C6Y3vhta0.jpg",
+          "width": 960,
+          "height": 720,
+          "classifications": ["outdoor"]
+        },
+        {
+          "id": "51192670e4b02c4e3477ad4f",
+          "created_at": "2013-02-11T17:12:16.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/1360602_YBoCSE4QuAeQNgOZv7UvxsTRrEWfzVccUeHknCL7rC4.jpg",
+          "width": 960,
+          "height": 720
+        },
+        {
+          "id": "4e49116b14959d51c1843522",
+          "created_at": "2011-08-15T12:30:35.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/V4AZ2PCHNODFRUMSQELI5DBMTGFQLTFP3BP0NNUZQU4AYYJN.jpg",
+          "width": 720,
+          "height": 537
+        },
+        {
+          "id": "50f6c58fe4b00adffccb35e7",
+          "created_at": "2013-01-16T15:21:51.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/3598225_nlD-t824fHCDBqg382OneYZyt5xhywUHe41tMIB4Ymo.jpg",
+          "width": 959,
+          "height": 717,
+          "classifications": ["outdoor"]
+        },
+        {
+          "id": "51e2a12f498e5e203009697c",
+          "created_at": "2013-07-14T13:01:35.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/1199949_6xCov8UBCUVxf5HJmZxV2LerB2kLuZ3R42_vqwB8miw.jpg",
+          "width": 959,
+          "height": 717
+        }
+      ],
+      "price": 4,
+      "rating": 9.1,
+      "social_media": {
+        "facebook_id": "207525832719080",
+        "twitter": "skyloungeams"
+      }
+    },
+    {
+      "fsq_id": "5e2aafef36577100070659ed",
+      "categories": [
+        {
+          "id": 19000,
+          "name": "Travel and Transportation",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "description": "A'DAM LOOKOUT is an observation deck with an unrivalled panoramic view of Amsterdam. Europe's highest swing is part of A'DAM LOOKOUT and located on the roof of the A'DAM Tower",
+      "distance": 1375,
+      "hours": {
+        "display": "Mon-Thu 10:00-22:00; Fri-Sat 10:00-18:00; Sun 10:00-22:00",
+        "is_local_holiday": false,
+        "open_now": true,
+        "regular": [
+          {
+            "close": "2200",
+            "day": 1,
+            "open": "1000"
+          },
+          {
+            "close": "2200",
+            "day": 2,
+            "open": "1000"
+          },
+          {
+            "close": "2200",
+            "day": 3,
+            "open": "1000"
+          },
+          {
+            "close": "2200",
+            "day": 4,
+            "open": "1000"
+          },
+          {
+            "close": "1800",
+            "day": 5,
+            "open": "1000"
+          },
+          {
+            "close": "1800",
+            "day": 6,
+            "open": "1000"
+          },
+          {
+            "close": "2200",
+            "day": 7,
+            "open": "1000"
+          }
+        ],
+        "seasonal": [
+          {
+            "closed": true,
+            "hours": [
+              {
+                "close": "+0000",
+                "day": 1,
+                "open": "0000"
+              },
+              {
+                "close": "+0000",
+                "day": 1,
+                "open": "0000"
+              },
+              {
+                "close": "+0000",
+                "day": 2,
+                "open": "0000"
+              },
+              {
+                "close": "+0000",
+                "day": 2,
+                "open": "0000"
+              },
+              {
+                "close": "+0000",
+                "day": 3,
+                "open": "0000"
+              },
+              {
+                "close": "+0000",
+                "day": 3,
+                "open": "0000"
+              },
+              {
+                "close": "+0000",
+                "day": 4,
+                "open": "0000"
+              },
+              {
+                "close": "+0000",
+                "day": 4,
+                "open": "0000"
+              },
+              {
+                "close": "+0000",
+                "day": 5,
+                "open": "0000"
+              },
+              {
+                "close": "+0000",
+                "day": 5,
+                "open": "0000"
+              },
+              {
+                "close": "+0000",
+                "day": 6,
+                "open": "0000"
+              },
+              {
+                "close": "+0000",
+                "day": 6,
+                "open": "0000"
+              },
+              {
+                "close": "+0000",
+                "day": 7,
+                "open": "0000"
+              },
+              {
+                "close": "+0000",
+                "day": 7,
+                "open": "0000"
+              }
+            ]
+          }
+        ]
+      },
+      "location": {
+        "address": "Overhoeksplein 5",
+        "country": "NL",
+        "cross_street": "",
+        "formatted_address": "Overhoeksplein 5, 1031 KS Amsterdam",
+        "locality": "Amsterdam",
+        "postcode": "1031 KS",
+        "region": "North Holland"
+      },
+      "name": "A'DAM Lookout",
+      "photos": [
+        {
+          "id": "635965e5aeb7221058ec27fe",
+          "created_at": "2022-10-26T16:52:53.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/18044700_SjOYZsLSRrKADdy6t1BOQWCdkkvrLMAEgBJwOQyONrQ.jpg",
+          "width": 1440,
+          "height": 1920
+        },
+        {
+          "id": "635965e501dfca4cefb25980",
+          "created_at": "2022-10-26T16:52:53.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/18044700_3RQXcNJq6d54Irbu2ShYI_LNuf9_oFztbRSBIcp5w0o.jpg",
+          "width": 1440,
+          "height": 1920
+        },
+        {
+          "id": "63595f14af66ae37bad82c9c",
+          "created_at": "2022-10-26T16:23:48.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/18044700_lSmSm9pvg2y8M_LUglSzP-QtOkLeelcllpGYQNiabQY.jpg",
+          "width": 1440,
+          "height": 1920
+        },
+        {
+          "id": "63595f149c0ca044c5dd361f",
+          "created_at": "2022-10-26T16:23:48.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/18044700_piZ-8WSxGumtiDNjKQlIaLVO_gfrOohOv81_dtGvXzk.jpg",
+          "width": 1440,
+          "height": 1920
+        },
+        {
+          "id": "63595d46ca5be96a848d50c6",
+          "created_at": "2022-10-26T16:16:06.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/10251843_h1i87Vyz3tfXZlEnyPaj7QKSp6mDpqlPD0ZM42HVdLA.jpg",
+          "width": 1439,
+          "height": 1920
+        }
+      ],
+      "rating": 9.3,
+      "social_media": {
+        "facebook_id": "197124783822760",
+        "instagram": "adamlookout",
+        "twitter": "adamlookout"
+      }
+    },
+    {
+      "fsq_id": "4db2d469f7b121c29f284fad",
+      "categories": [
+        {
+          "id": 16017,
+          "name": "Garden",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/garden_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "distance": 1640,
+      "hours": {
+        "is_local_holiday": false,
+        "open_now": false,
+        "seasonal": []
+      },
+      "location": {
+        "address": "Museumstraat 1",
+        "country": "NL",
+        "cross_street": "",
+        "formatted_address": "Museumstraat 1, 1071 XX Amsterdam",
+        "locality": "Amsterdam",
+        "postcode": "1071 XX",
+        "region": "North Holland"
+      },
+      "name": "Rijksmuseum Garden (Tuin Rijksmuseum)",
+      "photos": [
+        {
+          "id": "501e5ed2e4b075c1f089a59a",
+          "created_at": "2012-08-05T11:53:54.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/T1HQMBlyhYlQT2msQn8Me-iXhzU2WnmvD3XFu9mwVEI.jpg",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "id": "51c40637498e670984478284",
+          "created_at": "2013-06-21T07:52:23.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/53410462_-9qce3UNA__QN8bWC7z4V6lmmB11zh1NUunzHLhcjFY.jpg",
+          "width": 612,
+          "height": 612,
+          "classifications": ["outdoor"]
+        },
+        {
+          "id": "51c5a709498e6def8477c7b8",
+          "created_at": "2013-06-22T13:30:49.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/10992694_8_ceGIhZsYgSgGzgYVuIpw2oOuwozuVXHD4lzNyaSpw.jpg",
+          "width": 612,
+          "height": 612
+        },
+        {
+          "id": "51c4c444498ebaa34dc02b58",
+          "created_at": "2013-06-21T21:23:16.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/84995_rW50DqxOvhieoqpYEn_Db9kUIGjBDSBrWNuML5Tlh3E.jpg",
+          "width": 612,
+          "height": 612,
+          "classifications": ["outdoor"]
+        },
+        {
+          "id": "4fc159f1e4b0bb07326e495b",
+          "created_at": "2012-05-26T22:32:17.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/g6WECb3HQncVn4gU8Z3_wcKc7VwIKRard4INsay4W9g.jpg",
+          "width": 612,
+          "height": 612
+        }
+      ],
+      "rating": 9.3,
+      "social_media": {
+        "facebook_id": "253769920176",
+        "twitter": "rijksmuseum"
+      }
+    },
+    {
+      "fsq_id": "4baa7a34f964a5208f6d3ae3",
+      "categories": [
+        {
+          "id": 16036,
+          "name": "Picnic Area",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "description": "Het Oosterpark is aangelegd in Engelse landschapsstijl. In het park bevindt zich een slingerend aangelegde vijver met daarin een klein eiland. Je vindt hier verschillende monumenten en beelden, onder meer ter nagedachtenis aan Theo van Gogh, De Spreeksteen en het Nationaal Monument Slavernijverleden",
+      "distance": 2597,
+      "hours": {
+        "display": "Open Daily 0:00-24:00",
+        "is_local_holiday": false,
+        "open_now": true,
+        "regular": [
+          {
+            "close": "+0000",
+            "day": 1,
+            "open": "0000"
+          },
+          {
+            "close": "+0000",
+            "day": 2,
+            "open": "0000"
+          },
+          {
+            "close": "+0000",
+            "day": 3,
+            "open": "0000"
+          },
+          {
+            "close": "+0000",
+            "day": 4,
+            "open": "0000"
+          },
+          {
+            "close": "+0000",
+            "day": 5,
+            "open": "0000"
+          },
+          {
+            "close": "+0000",
+            "day": 6,
+            "open": "0000"
+          },
+          {
+            "close": "+0000",
+            "day": 7,
+            "open": "0000"
+          }
+        ],
+        "seasonal": []
+      },
+      "location": {
+        "address": "Oosterpark",
+        "country": "NL",
+        "formatted_address": "Oosterpark, 1092 AS Amsterdam",
+        "locality": "Amsterdam",
+        "postcode": "1092 AS",
+        "region": "North Holland"
+      },
+      "name": "Oosterpark",
+      "photos": [
+        {
+          "id": "51d6bb79498ee198e2686ec4",
+          "created_at": "2013-07-05T12:26:33.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/1070472_T5tR4j_RUATApxTIMLpVewJXTbYHvElbMuls_-QGX20.jpg",
+          "width": 612,
+          "height": 612
+        },
+        {
+          "id": "51d6c631498eaa310924ee18",
+          "created_at": "2013-07-05T13:12:17.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/8941743_1GcRl5syoPMg04ksfkgSgOu6zzi6uBT4mofcLIVWSyc.jpg",
+          "width": 959,
+          "height": 717
+        },
+        {
+          "id": "51179a56e4b0e3bf024ce6cc",
+          "created_at": "2013-02-10T13:02:14.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/242621_lmBHHtCP3gAcRq97FmNGXvIu6QnKpQ9dgwdPXxqmowg.jpg",
+          "width": 612,
+          "height": 612,
+          "classifications": ["outdoor"]
+        },
+        {
+          "id": "525e43b511d24bd7aabec099",
+          "created_at": "2013-10-16T07:43:49.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/242621_qDUqkyrR-nWu0g-qU3hT3Ojs8ZwToB0b0nWqPLLNhyA.jpg",
+          "width": 640,
+          "height": 640,
+          "classifications": ["outdoor"]
+        },
+        {
+          "id": "51b0beb6498e98d518634457",
+          "created_at": "2013-06-06T16:54:14.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/352715_f8pnXfLaOU8EIdjZ_RkYeSDN6twE652yDaIcjTHfnZs.jpg",
+          "width": 960,
+          "height": 720,
+          "classifications": ["outdoor"]
+        }
+      ],
+      "rating": 9.2,
+      "social_media": {
+        "facebook_id": "177504805633250",
+        "twitter": "onsoosterpark"
+      }
+    },
+    {
+      "fsq_id": "4a27079bf964a5205d8e1fe3",
+      "categories": [
+        {
+          "id": 13065,
+          "name": "Restaurant",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "description": "Aan de altijd gezellige Noordermarkt midden in de Jordaan staat een prachtig authentiek Amsterdams hoekpandje waarin Winkel 43 is gevestigd. Men kan men terecht van 'smorgens vroeg tot 's avonds laat...",
+      "distance": 609,
+      "hours": {
+        "display": "Mon 7:00-23:59; Tue 00:00-1:00, 8:00-23:59; Wed 00:00-1:00, 8:15-23:59; Thu-Fri 00:00-1:00, 8:00-23:59; Sat 00:00-3:00, 7:00-23:59; Sun 00:00-3:00",
+        "is_local_holiday": false,
+        "open_now": true,
+        "regular": [
+          {
+            "close": "2359",
+            "day": 1,
+            "open": "0700"
+          },
+          {
+            "close": "0100",
+            "day": 2,
+            "open": "0000"
+          },
+          {
+            "close": "2359",
+            "day": 2,
+            "open": "0800"
+          },
+          {
+            "close": "0100",
+            "day": 3,
+            "open": "0000"
+          },
+          {
+            "close": "2359",
+            "day": 3,
+            "open": "0815"
+          },
+          {
+            "close": "0100",
+            "day": 4,
+            "open": "0000"
+          },
+          {
+            "close": "2359",
+            "day": 4,
+            "open": "0800"
+          },
+          {
+            "close": "0100",
+            "day": 5,
+            "open": "0000"
+          },
+          {
+            "close": "2359",
+            "day": 5,
+            "open": "0800"
+          },
+          {
+            "close": "0300",
+            "day": 6,
+            "open": "0000"
+          },
+          {
+            "close": "2359",
+            "day": 6,
+            "open": "0700"
+          },
+          {
+            "close": "0300",
+            "day": 7,
+            "open": "0000"
+          }
+        ],
+        "seasonal": []
+      },
+      "location": {
+        "address": "Noordermarkt 43",
+        "country": "NL",
+        "cross_street": "at Westerstraat",
+        "formatted_address": "Noordermarkt 43 (at Westerstraat), 1015 NA Amsterdam",
+        "locality": "Amsterdam",
+        "neighborhood": ["Jordaan"],
+        "postcode": "1015 NA",
+        "region": "North Holland"
+      },
+      "name": "Winkel 43",
+      "photos": [
+        {
+          "id": "5182855a498eb4cde8aa55f5",
+          "created_at": "2013-05-02T15:25:14.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/9806810_-TjVyUqhoTT6bF2-jRr0ANdCJa37ToPojTiXwN9llHs.jpg",
+          "width": 1440,
+          "height": 1920,
+          "classifications": ["food"]
+        },
+        {
+          "id": "50445806e4b0235a829a3704",
+          "created_at": "2012-09-03T07:11:02.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/-o_8ulY82WXNWQhzDEAz3jsqlFF4EYfW_YmIWZTDusI.jpg",
+          "width": 612,
+          "height": 612,
+          "classifications": ["food"]
+        },
+        {
+          "id": "51b44d2c498e6a62ae88bbc0",
+          "created_at": "2013-06-09T09:38:52.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/29323518_Wdc757eI320hu5sxxY1mVPJElrPwZrswb8NohqJyg9E.jpg",
+          "width": 720,
+          "height": 960,
+          "classifications": ["indoor"]
+        },
+        {
+          "id": "5175360b498ed50cdef69e65",
+          "created_at": "2013-04-22T13:07:23.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/29282961_ajBRbUAXez9AzwfPfdicJbGKZXCYWKMbvGX0VELFtco.jpg",
+          "width": 612,
+          "height": 612
+        },
+        {
+          "id": "50476e09e4b00b4755f6f5c4",
+          "created_at": "2012-09-05T15:21:45.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/JnR3GxErNfD5WjdBjzetBAYt2wygnJQkcChp1eZRD9k.jpg",
+          "width": 612,
+          "height": 612,
+          "classifications": ["food"]
+        }
+      ],
+      "price": 2,
+      "rating": 9.3,
+      "social_media": {
+        "facebook_id": "178786845500715",
+        "twitter": "winkel43"
+      }
+    },
+    {
+      "fsq_id": "4a27070ff964a520db8c1fe3",
+      "categories": [
+        {
+          "id": 10056,
+          "name": "Zoo",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/zoo_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "distance": 1903,
+      "hours": {
+        "display": "Mon-Sat 9:00-18:00; Sun 12:00-18:00",
+        "is_local_holiday": false,
+        "open_now": false,
+        "regular": [
+          {
+            "close": "1800",
+            "day": 1,
+            "open": "0900"
+          },
+          {
+            "close": "1800",
+            "day": 2,
+            "open": "0900"
+          },
+          {
+            "close": "1800",
+            "day": 3,
+            "open": "0900"
+          },
+          {
+            "close": "1800",
+            "day": 4,
+            "open": "0900"
+          },
+          {
+            "close": "1800",
+            "day": 5,
+            "open": "0900"
+          },
+          {
+            "close": "1800",
+            "day": 6,
+            "open": "0900"
+          },
+          {
+            "close": "1800",
+            "day": 7,
+            "open": "1200"
+          }
+        ],
+        "seasonal": []
+      },
+      "location": {
+        "address": "Plantage Kerklaan 38-40",
+        "country": "NL",
+        "cross_street": "",
+        "formatted_address": "Plantage Kerklaan 38-40, 1018 CZ Amsterdam",
+        "locality": "Amsterdam",
+        "neighborhood": ["Plantage & the East"],
+        "postcode": "1018 CZ",
+        "region": "North Holland"
+      },
+      "name": "Natura Artis Magistra",
+      "photos": [
+        {
+          "id": "4e4525397d8bee2823a5b123",
+          "created_at": "2011-08-12T13:06:01.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/WZEMD5RSUYTEZGNEQCGY2LGUQSWX2CMZ4IJDLQW5AP5WBWN0.jpg",
+          "width": 431,
+          "height": 720
+        },
+        {
+          "id": "51866fd1498e6f60299ad26f",
+          "created_at": "2013-05-05T14:42:25.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/87753_QUK5pj7MagcnsbI7PQK8xTIQSh63LEdTVuGNP6SVnzk.jpg",
+          "width": 612,
+          "height": 612
+        },
+        {
+          "id": "51d92f9d498eea580434bb53",
+          "created_at": "2013-07-07T09:06:37.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/17576254_i7pumea2EwKl62YinlweHoaQCJE7Q1Eceur-LVNLEV0.jpg",
+          "width": 960,
+          "height": 720
+        },
+        {
+          "id": "50dba079e4b089721ef85f9e",
+          "created_at": "2012-12-27T01:12:25.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/728071_CaVsIidB9Th7l32aSFTaKoZLKqJC_41Ruaxmmif90zk.jpg",
+          "width": 717,
+          "height": 959,
+          "classifications": ["outdoor"]
+        },
+        {
+          "id": "51938abf498e94fb763bf17b",
+          "created_at": "2013-05-15T13:16:47.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/13224754_cYGnDGeIe5ryM_417WHCld9LKQm6frW5W0C4DstN8Ek.jpg",
+          "width": 481,
+          "height": 641
+        }
+      ],
+      "rating": 9,
+      "social_media": {
+        "facebook_id": "181421308559203",
+        "twitter": "artis"
+      }
+    },
+    {
+      "fsq_id": "4a27071ef964a520fc8c1fe3",
+      "categories": [
+        {
+          "id": 16032,
+          "name": "Park",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "distance": 3147,
+      "hours": {
+        "is_local_holiday": false,
+        "open_now": false,
+        "seasonal": []
+      },
+      "location": {
+        "address": "Orteliuskade 57",
+        "country": "NL",
+        "formatted_address": "Orteliuskade 57, 1057 AL Amsterdam",
+        "locality": "Amsterdam",
+        "postcode": "1057 AL",
+        "region": "North Holland"
+      },
+      "name": "Rembrandtpark",
+      "photos": [
+        {
+          "id": "522575be498e1846ec97283b",
+          "created_at": "2013-09-03T05:38:06.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/53245215_Vv5vahUcABpYA3ZsAACcHwY77SvTkjwKbbmY1BvyZCY.jpg",
+          "width": 612,
+          "height": 612
+        },
+        {
+          "id": "4f8ae3e8e4b0ab5c893cde97",
+          "created_at": "2012-04-15T15:06:16.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/lzOnxmNs-UMdiVuTwYhR3ZisS_ZnlbexEvH3oXqvroY.jpg",
+          "width": 612,
+          "height": 612,
+          "classifications": ["outdoor"]
+        },
+        {
+          "id": "4fc0f079e4b0f60183d5ca1e",
+          "created_at": "2012-05-26T15:02:17.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/fuV7zYLuQ47FQC7EgTQXc0I728Z3sptktNzkhelr-sw.jpg",
+          "width": 540,
+          "height": 540
+        },
+        {
+          "id": "5183c321498e5906a7591df8",
+          "created_at": "2013-05-03T14:01:05.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/882739__0NewgvSKc2NrEP63tcvzoaRrSqo-fE4OLf40tgqqTk.jpg",
+          "width": 1920,
+          "height": 1440,
+          "classifications": ["outdoor"]
+        },
+        {
+          "id": "51d8114e498e9e4036ac1064",
+          "created_at": "2013-07-06T12:45:02.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/13663972_jhp6zNk63zuoDOXVR0LEWNIYaGBDnjrOopjI4J3a7Ns.jpg",
+          "width": 960,
+          "height": 720,
+          "classifications": ["outdoor"]
+        }
+      ],
+      "rating": 9.2,
+      "social_media": {
+        "facebook_id": "769863343031607"
+      }
+    },
+    {
+      "fsq_id": "4d02247558245481ae5049ac",
+      "categories": [
+        {
+          "id": 10037,
+          "name": "Concert Hall",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/musicvenue_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "description": "Dit is de officiële Foursquare-pagina van Ziggo Dome. In de Ziggo Dome draait alles om livemuziek en entertainment: grote nationale en internationale artiesten, familie entertainment en andere evenementen. Tot ziens in de Ziggo Dome!",
+      "distance": 7461,
+      "hours": {
+        "is_local_holiday": false,
+        "open_now": false,
+        "seasonal": []
+      },
+      "location": {
+        "address": "De Passage 100",
+        "country": "NL",
+        "formatted_address": "De Passage 100, 1101 AX Amsterdam",
+        "locality": "Amsterdam",
+        "postcode": "1101 AX",
+        "region": "North Holland"
+      },
+      "name": "Ziggo Dome",
+      "photos": [
+        {
+          "id": "50579b48e4b06c4e2620d066",
+          "created_at": "2012-09-17T21:51:04.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/3945488_j_ONyrKRJtXLoqoSTLLTA81HtK51twf8m9aLdOhTDw4.jpg",
+          "width": 612,
+          "height": 612
+        },
+        {
+          "id": "4ffa72bbe4b0887e56152bea",
+          "created_at": "2012-07-09T05:57:15.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/w4TddTLQFkacTfdTtbkb-F4GGA5IMjYtn7-SDg0i6ZU.jpg",
+          "width": 720,
+          "height": 537
+        },
+        {
+          "id": "51719069e4b0dc2f3c416004",
+          "created_at": "2013-04-19T18:43:53.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/357245_tk_FAIFFu-O34a1YG3Ay_a97wrRwfEADMld7s95LYsE.jpg",
+          "width": 1920,
+          "height": 1440
+        },
+        {
+          "id": "4ff9a1e6e4b048eef8cfeae6",
+          "created_at": "2012-07-08T15:06:14.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/XOkKzshFxPoOHGx7zzTLJ3njWEXawFa00nZMRBXEeKM.jpg",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "id": "51b6492b498e10c81618c357",
+          "created_at": "2013-06-10T21:46:19.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/2553767_dQc4shXHBTRodHCbDoup8JYGYwtWuBQ_eaOF6q1RT-Y.jpg",
+          "width": 612,
+          "height": 612
+        }
+      ],
+      "price": 3,
+      "rating": 9,
+      "social_media": {
+        "facebook_id": "299132040111882",
+        "instagram": "ziggodome",
+        "twitter": "ziggodome"
+      }
+    },
+    {
+      "fsq_id": "4a27071df964a520f88c1fe3",
+      "categories": [
+        {
+          "id": 16037,
+          "name": "Playground",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/playground_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "description": "Het Sarphatipark is een rechthoekig park van 4,5 hectare in het midden van de Amsterdamse woonwijk De Pijp in stadsdeel Amsterdam-Zuid. Het park is vernoemd naar de arts, stedenbouwer en weldoener Samuel Sarphati, van wie een standbeeld in het park staat. Het gemaal is een gemeentelijk monument.",
+      "distance": 2215,
+      "hours": {
+        "is_local_holiday": false,
+        "open_now": false,
+        "seasonal": []
+      },
+      "location": {
+        "address": "Sarphatipark",
+        "country": "NL",
+        "cross_street": "",
+        "formatted_address": "Sarphatipark, 1073 CZ Amsterdam",
+        "locality": "Amsterdam",
+        "neighborhood": ["De Pijp"],
+        "postcode": "1073 CZ",
+        "region": "North Holland"
+      },
+      "name": "Sarphatipark",
+      "photos": [
+        {
+          "id": "4fc3a396e4b0c9a9f2284d62",
+          "created_at": "2012-05-28T16:11:02.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/Dar6Xn3mKVPvaWhvBEir0VOXgMy5rpw0chOqg38tPzI.jpg",
+          "width": 720,
+          "height": 540,
+          "classifications": ["outdoor"]
+        },
+        {
+          "id": "51ab344e498ec9b450e21f17",
+          "created_at": "2013-06-02T12:02:22.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/10852124_BcpQAUOwWk-47YpuVzl6BdrV4EjsgoKJexMlEOCKR_4.jpg",
+          "width": 612,
+          "height": 612,
+          "classifications": ["outdoor"]
+        },
+        {
+          "id": "51b0a144498e2f22801966e2",
+          "created_at": "2013-06-06T14:48:36.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/1048583_pr5hQFjE1CZKOOfPVZyyiNKFPdf4xw0PxY3vVnOSUvc.jpg",
+          "width": 612,
+          "height": 612
+        },
+        {
+          "id": "50103a00e4b03873b6c978fe",
+          "created_at": "2012-07-25T18:25:04.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/EvEnyJnr_tc_tkyeisU_H1RhuW7nrQW61oHWS4OAtJk.jpg",
+          "width": 450,
+          "height": 600,
+          "classifications": ["outdoor"]
+        },
+        {
+          "id": "4fc37964e4b0a3bda182a470",
+          "created_at": "2012-05-28T13:11:00.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/HqypivV-vQpVflG7kQnW2ebks_lAWcnrce97Oh8bPmw.jpg",
+          "width": 720,
+          "height": 540
+        }
+      ],
+      "rating": 9.2,
+      "social_media": {
+        "facebook_id": "233466396755368"
+      }
+    },
+    {
+      "fsq_id": "52af231b11d2d07f6e9bff9f",
+      "categories": [
+        {
+          "id": 13002,
+          "name": "Bakery",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/bakery_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13047,
+          "name": "Pastry Shop",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/dessert_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13065,
+          "name": "Restaurant",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "distance": 583,
+      "hours": {
+        "display": "Mon 12:00-18:00; Tue-Fri 10:00-18:00; Sat-Sun 11:00-18:00",
+        "is_local_holiday": false,
+        "open_now": false,
+        "regular": [
+          {
+            "close": "1800",
+            "day": 1,
+            "open": "1200"
+          },
+          {
+            "close": "1800",
+            "day": 2,
+            "open": "1000"
+          },
+          {
+            "close": "1800",
+            "day": 3,
+            "open": "1000"
+          },
+          {
+            "close": "1800",
+            "day": 4,
+            "open": "1000"
+          },
+          {
+            "close": "1800",
+            "day": 5,
+            "open": "1000"
+          },
+          {
+            "close": "1800",
+            "day": 6,
+            "open": "1100"
+          },
+          {
+            "close": "1800",
+            "day": 7,
+            "open": "1100"
+          }
+        ],
+        "seasonal": []
+      },
+      "location": {
+        "address": "Heisteeg 4",
+        "country": "NL",
+        "cross_street": "Spui",
+        "formatted_address": "Heisteeg 4 (Spui), 1012 WC Amsterdam",
+        "locality": "Amsterdam",
+        "neighborhood": ["Grachtengordel-West"],
+        "postcode": "1012 WC",
+        "region": "North Holland"
+      },
+      "name": "Van Stapele Koekmakerij",
+      "photos": [
+        {
+          "id": "5b1bd604336273002c2f2488",
+          "created_at": "2018-06-09T13:28:36.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/493858632_V3ywfMYd0isTOxFc18r8Iid2FCUbKz2N_LSlNqmOt8g.jpg",
+          "width": 1440,
+          "height": 1920
+        },
+        {
+          "id": "59cfb377c21cb157ea22c4d0",
+          "created_at": "2017-09-30T15:08:39.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/23280129_-H9Ny8-2J-Z0rceskb34SJRA-AIfh0uwUNd60cnVTVQ.jpg",
+          "width": 1440,
+          "height": 1440
+        },
+        {
+          "id": "6160285a2e9a637cd1be3d3d",
+          "created_at": "2021-10-08T11:15:38.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/1368545496_YFIgH7dgynlzx3OuALpXbaXCJm458-sG7yZaOV7HIog.jpg",
+          "width": 1031,
+          "height": 1920
+        },
+        {
+          "id": "5cc311bac876c8002ca686dc",
+          "created_at": "2019-04-26T14:12:10.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/1622230_trwoLSfCdsRDvyyRiRqtYrfYH-6fpyyjjRNdNAbrVnY.jpg",
+          "width": 1440,
+          "height": 1920,
+          "classifications": ["food"]
+        },
+        {
+          "id": "61af67d103f26739e03ed4ff",
+          "created_at": "2021-12-07T13:55:29.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/538785651_PACY2JLogY_L9T0EH2Eg0iI-G_zK6hOf9Pj2OADtMrk.jpg",
+          "width": 1038,
+          "height": 1920
+        }
+      ],
+      "price": 2,
+      "rating": 9.3,
+      "social_media": {
+        "facebook_id": "444850415625473"
+      }
+    },
+    {
+      "fsq_id": "4f3a6a34a17c224158ecd541",
+      "categories": [
+        {
+          "id": 17023,
+          "name": "Computers and Electronics Retail",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "description": "Ga naar de Apple Store voor Mac, iPhone, iPad, Apple Watch en meer. Meld je aan voor Today at Apple-sessies. Of ga naar de Genius Bar voor ondersteuning.",
+      "distance": 1253,
+      "hours": {
+        "display": "Mon-Sat 10:00-20:00; Sun 11:00-19:00",
+        "is_local_holiday": false,
+        "open_now": false,
+        "regular": [
+          {
+            "close": "2000",
+            "day": 1,
+            "open": "1000"
+          },
+          {
+            "close": "2000",
+            "day": 2,
+            "open": "1000"
+          },
+          {
+            "close": "2000",
+            "day": 3,
+            "open": "1000"
+          },
+          {
+            "close": "2000",
+            "day": 4,
+            "open": "1000"
+          },
+          {
+            "close": "2000",
+            "day": 5,
+            "open": "1000"
+          },
+          {
+            "close": "2000",
+            "day": 6,
+            "open": "1000"
+          },
+          {
+            "close": "1900",
+            "day": 7,
+            "open": "1100"
+          }
+        ],
+        "seasonal": [
+          {
+            "closed": false,
+            "hours": [
+              {
+                "close": "2000",
+                "day": 1,
+                "open": "1000"
+              },
+              {
+                "close": "2000",
+                "day": 2,
+                "open": "1000"
+              },
+              {
+                "close": "1800",
+                "day": 3,
+                "open": "1000"
+              },
+              {
+                "close": "1800",
+                "day": 4,
+                "open": "1000"
+              },
+              {
+                "close": "1800",
+                "day": 5,
+                "open": "1000"
+              },
+              {
+                "close": "1800",
+                "day": 6,
+                "open": "1000"
+              },
+              {
+                "close": "1800",
+                "day": 7,
+                "open": "1000"
+              }
+            ]
+          },
+          {
+            "closed": false,
+            "hours": [
+              {
+                "close": "1830",
+                "day": 1,
+                "open": "1000"
+              },
+              {
+                "close": "1830",
+                "day": 2,
+                "open": "1000"
+              },
+              {
+                "close": "1830",
+                "day": 3,
+                "open": "1000"
+              },
+              {
+                "close": "1830",
+                "day": 4,
+                "open": "1000"
+              },
+              {
+                "close": "1830",
+                "day": 5,
+                "open": "1000"
+              },
+              {
+                "close": "1830",
+                "day": 6,
+                "open": "1000"
+              }
+            ]
+          },
+          {
+            "closed": false,
+            "hours": [
+              {
+                "close": "1830",
+                "day": 1,
+                "open": "1000"
+              },
+              {
+                "close": "1830",
+                "day": 2,
+                "open": "1000"
+              },
+              {
+                "close": "1830",
+                "day": 3,
+                "open": "1000"
+              },
+              {
+                "close": "1830",
+                "day": 4,
+                "open": "1000"
+              },
+              {
+                "close": "1830",
+                "day": 5,
+                "open": "1000"
+              },
+              {
+                "close": "1830",
+                "day": 6,
+                "open": "1000"
+              },
+              {
+                "close": "1830",
+                "day": 7,
+                "open": "1000"
+              }
+            ]
+          },
+          {
+            "closed": false,
+            "hours": [
+              {
+                "close": "1830",
+                "day": 1,
+                "open": "1000"
+              },
+              {
+                "close": "1830",
+                "day": 2,
+                "open": "1000"
+              },
+              {
+                "close": "1830",
+                "day": 3,
+                "open": "1000"
+              },
+              {
+                "close": "1830",
+                "day": 4,
+                "open": "1000"
+              },
+              {
+                "close": "1830",
+                "day": 5,
+                "open": "1000"
+              },
+              {
+                "close": "1830",
+                "day": 6,
+                "open": "1000"
+              },
+              {
+                "close": "1830",
+                "day": 7,
+                "open": "1000"
+              }
+            ]
+          },
+          {
+            "closed": false,
+            "hours": [
+              {
+                "close": "1830",
+                "day": 1,
+                "open": "1000"
+              },
+              {
+                "close": "1830",
+                "day": 2,
+                "open": "1000"
+              },
+              {
+                "close": "1830",
+                "day": 3,
+                "open": "1000"
+              },
+              {
+                "close": "1830",
+                "day": 4,
+                "open": "1000"
+              },
+              {
+                "close": "1830",
+                "day": 5,
+                "open": "1000"
+              },
+              {
+                "close": "1830",
+                "day": 6,
+                "open": "1000"
+              },
+              {
+                "close": "1830",
+                "day": 7,
+                "open": "1000"
+              }
+            ]
+          },
+          {
+            "closed": false,
+            "hours": [
+              {
+                "close": "1830",
+                "day": 1,
+                "open": "1000"
+              },
+              {
+                "close": "1830",
+                "day": 3,
+                "open": "1000"
+              },
+              {
+                "close": "1830",
+                "day": 4,
+                "open": "1000"
+              },
+              {
+                "close": "1830",
+                "day": 5,
+                "open": "1000"
+              },
+              {
+                "close": "2000",
+                "day": 6,
+                "open": "1000"
+              },
+              {
+                "close": "1900",
+                "day": 7,
+                "open": "1100"
+              }
+            ]
+          }
+        ]
+      },
+      "location": {
+        "address": "Hirschgebouw, Leidseplein 25",
+        "country": "NL",
+        "cross_street": "Hirschgebouw",
+        "formatted_address": "Hirschgebouw, Leidseplein 25 (Hirschgebouw), 1017 PS Amsterdam",
+        "locality": "Amsterdam",
+        "postcode": "1017 PS",
+        "region": "North Holland"
+      },
+      "name": "Apple Amsterdam",
+      "photos": [
+        {
+          "id": "51e535f5498e74d14e6071fc",
+          "created_at": "2013-07-16T12:00:53.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/7791492_oJTMn9hVHPhrCQFTop6PNq3W-qOjx5h7_N3R1EE7aJc.jpg",
+          "width": 720,
+          "height": 720
+        },
+        {
+          "id": "5088166fe4b0a95b6a382678",
+          "created_at": "2012-10-24T16:25:19.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/4783778_7_cBs2dFglFaYJ54_5WjNW9VKKYjYUSVZAvwkgE7vGY.jpg",
+          "width": 720,
+          "height": 540
+        },
+        {
+          "id": "50915d4de4b07bfac8c99112",
+          "created_at": "2012-10-31T17:18:05.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/32895180_f3ca2WfI8K8zDXfhwWryMESkz2jjBEU9QMQEE5sdsZY.jpg",
+          "width": 537,
+          "height": 720
+        },
+        {
+          "id": "509a84c4e4b05dfac888bf81",
+          "created_at": "2012-11-07T15:56:52.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/17912953_jUXvjCwWOseyxrxKwKLAQLsvNQmHWJHl-jzuX9Ml38U.jpg",
+          "width": 540,
+          "height": 720,
+          "classifications": ["outdoor"]
+        },
+        {
+          "id": "51ab6988498eb1a56c36f07d",
+          "created_at": "2013-06-02T15:49:28.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/2787831_n6SQahflXelWOTqo7PFmdlpJW_u9CyP_x8L4tetUxU8.jpg",
+          "width": 720,
+          "height": 960
+        }
+      ],
+      "rating": 9,
+      "social_media": {
+        "facebook_id": "489836464417943",
+        "instagram": "apple",
+        "twitter": "apple"
+      }
+    },
+    {
+      "fsq_id": "4f9e93cce4b02343ca00c6cf",
+      "categories": [
+        {
+          "id": 10039,
+          "name": "Music Venue",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/musicvenue_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13003,
+          "name": "Bar",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13057,
+          "name": "Gastropub",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/gastropub_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "distance": 2788,
+      "hours": {
+        "display": "Mon-Fri 00:00-1:00, 9:30-23:59; Sat-Sun 00:00-3:00, 9:30-23:59",
+        "is_local_holiday": false,
+        "open_now": true,
+        "regular": [
+          {
+            "close": "0100",
+            "day": 1,
+            "open": "0000"
+          },
+          {
+            "close": "2359",
+            "day": 1,
+            "open": "0930"
+          },
+          {
+            "close": "0100",
+            "day": 2,
+            "open": "0000"
+          },
+          {
+            "close": "2359",
+            "day": 2,
+            "open": "0930"
+          },
+          {
+            "close": "0100",
+            "day": 3,
+            "open": "0000"
+          },
+          {
+            "close": "2359",
+            "day": 3,
+            "open": "0930"
+          },
+          {
+            "close": "0100",
+            "day": 4,
+            "open": "0000"
+          },
+          {
+            "close": "2359",
+            "day": 4,
+            "open": "0930"
+          },
+          {
+            "close": "0100",
+            "day": 5,
+            "open": "0000"
+          },
+          {
+            "close": "2359",
+            "day": 5,
+            "open": "0930"
+          },
+          {
+            "close": "0300",
+            "day": 6,
+            "open": "0000"
+          },
+          {
+            "close": "2359",
+            "day": 6,
+            "open": "0930"
+          },
+          {
+            "close": "0300",
+            "day": 7,
+            "open": "0000"
+          },
+          {
+            "close": "2359",
+            "day": 7,
+            "open": "0930"
+          }
+        ],
+        "seasonal": []
+      },
+      "location": {
+        "address": "TT Neveritaweg 59",
+        "country": "NL",
+        "cross_street": "NDSM-werf",
+        "formatted_address": "TT Neveritaweg 59 (NDSM-werf), 1033 WB Amsterdam",
+        "locality": "Amsterdam",
+        "neighborhood": ["Buiksloterham"],
+        "postcode": "1033 WB",
+        "region": "North Holland"
+      },
+      "name": "Pllek",
+      "photos": [
+        {
+          "id": "519a57a4498ec1fda5ad970f",
+          "created_at": "2013-05-20T17:04:36.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/16447323_6Gw-J5y5QwE4OVCJ5AjhujsEygSTNFEePg11KDTzd90.jpg",
+          "width": 1798,
+          "height": 1440
+        },
+        {
+          "id": "51ebf6a4498e74df94395877",
+          "created_at": "2013-07-21T14:56:36.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/1838019_0CV2FDqSF1j5-5o61J6KW8EvA7OftY0IQMqTwQ7ttTk.jpg",
+          "width": 612,
+          "height": 612
+        },
+        {
+          "id": "51ab44a8498e8166967cf016",
+          "created_at": "2013-06-02T13:12:08.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/3016889_-XsJY0IWqJA8XPYG4goI2eYTrbVV7SkZynoiFpo8yMw.jpg",
+          "width": 959,
+          "height": 717,
+          "classifications": ["outdoor"]
+        },
+        {
+          "id": "50f03da0e4b0da5ee2ba1545",
+          "created_at": "2013-01-11T16:28:16.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/1056967_pPPNriBlilc7344ViW_-nauxbmU0jgM95chizfbktZo.jpg",
+          "width": 960,
+          "height": 720
+        },
+        {
+          "id": "51dc4062498ed695cedda70c",
+          "created_at": "2013-07-09T16:54:58.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/6185296_zKkMkDSk4BsfzdW2Q0ddSxaPA7L_p-wZgkFHPF2dmWQ.jpg",
+          "width": 960,
+          "height": 720
+        }
+      ],
+      "price": 2,
+      "rating": 9.3,
+      "social_media": {
+        "facebook_id": "219462264764900",
+        "twitter": "pllekndsm"
+      }
+    },
+    {
+      "fsq_id": "4a4cf389f964a5205ead1fe3",
+      "categories": [
+        {
+          "id": 16041,
+          "name": "Plaza",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/plaza_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "description": "Rembrandtplein (Rembrandt Square) is a major square in central Amsterdam, the Netherlands, named after the famous painter Rembrandt van Rijn who owned a house nearby from 1639 to 1656.",
+      "distance": 983,
+      "hours": {
+        "display": "Open Daily 00:00-23:59",
+        "is_local_holiday": false,
+        "open_now": true,
+        "regular": [
+          {
+            "close": "2359",
+            "day": 1,
+            "open": "0000"
+          },
+          {
+            "close": "2359",
+            "day": 2,
+            "open": "0000"
+          },
+          {
+            "close": "2359",
+            "day": 3,
+            "open": "0000"
+          },
+          {
+            "close": "2359",
+            "day": 4,
+            "open": "0000"
+          },
+          {
+            "close": "2359",
+            "day": 5,
+            "open": "0000"
+          },
+          {
+            "close": "2359",
+            "day": 6,
+            "open": "0000"
+          },
+          {
+            "close": "2359",
+            "day": 7,
+            "open": "0000"
+          }
+        ],
+        "seasonal": []
+      },
+      "location": {
+        "address": "Rembrandtplein",
+        "country": "NL",
+        "cross_street": "Utrechtsestraat",
+        "formatted_address": "Rembrandtplein (Utrechtsestraat), 1017 CT Amsterdam",
+        "locality": "Amsterdam",
+        "neighborhood": ["Canal Ring (Grachtengordel)"],
+        "postcode": "1017 CT",
+        "region": "North Holland"
+      },
+      "name": "Rembrandtplein",
+      "photos": [
+        {
+          "id": "5158425be4b071545e271c5e",
+          "created_at": "2013-03-31T14:04:11.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/1098485_pbbVA5JjL2J7oRC_MC3W3Dww117djBs4RvXBWJaQ3Vo.jpg",
+          "width": 612,
+          "height": 612
+        },
+        {
+          "id": "51768d9f498e5c19e00b5f1a",
+          "created_at": "2013-04-23T13:33:19.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/25874_R21KZxPTWPlfae1WyQ5rQHXvQCX59hbFcPKwmi1_vGU.jpg",
+          "width": 612,
+          "height": 612
+        },
+        {
+          "id": "50f586e7e4b01ffa8bd6e377",
+          "created_at": "2013-01-15T16:42:15.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/39937725_q2sdLYOexI3NMnFoC-qjcnAudFH1ev4zzuhOxyqV9y4.jpg",
+          "width": 960,
+          "height": 720
+        },
+        {
+          "id": "51d95737498e179ed85a647f",
+          "created_at": "2013-07-07T11:55:35.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/58666512_-uMHdjgsZRn9_kuIVzoEgr3raWgAkjyKw0Z_8R7V-lA.jpg",
+          "width": 960,
+          "height": 720,
+          "classifications": ["outdoor"]
+        },
+        {
+          "id": "51d04457498e7f4fdda2ca0c",
+          "created_at": "2013-06-30T14:44:39.000Z",
+          "prefix": "https://fastly.4sqi.net/img/general/",
+          "suffix": "/34714498_oftdf9d2fHk3JU1IcW6gfWTrJzJf3uwQKYsoTXs7GHA.jpg",
+          "width": 720,
+          "height": 960
+        }
+      ],
+      "rating": 9,
+      "social_media": {
+        "facebook_id": "114981858515627"
+      }
+    }
+  ],
+  "context": {
+    "geo_bounds": {
+      "circle": {
+        "center": {
+          "latitude": 52.37403,
+          "longitude": 4.88969
+        },
+        "radius": 11138
+      }
+    }
+  }
+}

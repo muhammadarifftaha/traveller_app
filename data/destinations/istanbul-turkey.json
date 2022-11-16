@@ -1,0 +1,305 @@
+{
+  "data": {
+    "id": "10527944",
+    "type": "destination",
+    "attributes": {
+      "slug": "istanbul-turkey",
+      "url": "https://www.roadgoat.com/travel-guides/istanbul-turkey",
+      "destination_type": "City",
+      "short_name": "Istanbul",
+      "name": "İstanbul, Turkey",
+      "long_name": "İstanbul, Turkey",
+      "population": 11174257,
+      "latitude": 41.01384,
+      "longitude": 28.94966,
+      "bounding_box": null,
+      "geonames_id": 745044,
+      "walk_score_url": null,
+      "budget": {
+        "İstanbul, Turkey": {
+          "value": 3,
+          "text": "Medium Low",
+          "subText": "Still a good deal"
+        },
+        "Turkey": {
+          "value": 3,
+          "text": "Medium Low",
+          "subText": "Still a good deal"
+        }
+      },
+      "safety": {
+        "İstanbul, Turkey": {
+          "value": 3,
+          "text": "Medium",
+          "subText": "Exercise Increased Caution"
+        },
+        "Turkey": {
+          "value": 3,
+          "text": "Medium",
+          "subText": "Exercise Increased Caution"
+        }
+      },
+      "covid": {
+        "Turkey": {
+          "value": 0.0,
+          "url": "https://www.worldometers.info/coronavirus/",
+          "text": "Low"
+        }
+      },
+      "average_rating": 4.66666666666667,
+      "check_in_count": 3492,
+      "google_events_url": "https://www.google.com/search?q=events+i%CC%87stanbul+turkey\u0026ibp=htl;events",
+      "vrbo_url": "https://vrbo.prf.hn/click/camref:1101ljbvy/creativeref:1101l63118/destination:https://www.vrbo.com/search/keywords:i%CC%87stanbul-turkey",
+      "alltrails_url": "https://www.alltrails.com/explore?b_tl_lat=41.61\u0026b_tl_lng=28.35\u0026b_br_lat=40.41\u0026b_br_lng=29.55",
+      "open_elevation_url": "https://api.open-elevation.com/api/v1/lookup?locations=41.01384,28.94966",
+      "foursquare_url": "https://api.foursquare.com/v2/venues/search?ll=41.01384,28.94966\u0026radius=100000",
+      "kayak_car_rental_url": "https://www.kayak.com/in?a=roadgoatdl\u0026url=/cars/%C4%B0stanbul%2CTurkey/%C4%B0stanbul%2CTurkey/2022-11-23/2022-11-30/?sort=price_a",
+      "kayak_lodgings_url": "https://www.kayak.com/in?a=roadgoatdl\u0026url=/hotels/%C4%B0stanbul%2CTurkey/2022-11-23/2022-11-30/1adults?sort=userrating_b",
+      "airbnb_url": "https://www.airbnb.com/s/%C4%B0stanbul%2C+Turkey/homes",
+      "getyourguide_url": "https://getyourguide.com/s/?q=%C4%B0stanbul%2C+Turkey\u0026partner_id=0TQGVTE",
+      "wikipedia_url": "http://en.wikipedia.org/wiki/Istanbul",
+      "woe_id": null,
+      "alternate_names": [
+        "Istanbul",
+        "Byzantium",
+        "İstanbul",
+        "Constantinople"
+      ],
+      "iso2": null,
+      "iso3": null,
+      "languages": null,
+      "currency_code": null,
+      "currency_name": null,
+      "phone_prefix": null,
+      "capital": null,
+      "top_cities_and_towns": []
+    },
+    "relationships": {
+      "state": { "data": null },
+      "country": { "data": { "id": "2009401", "type": "destination" } },
+      "continent": { "data": { "id": "10935558", "type": "destination" } },
+      "known_for": {
+        "data": [
+          { "id": "12", "type": "known_for" },
+          { "id": "4", "type": "known_for" },
+          { "id": "3", "type": "known_for" },
+          { "id": "17", "type": "known_for" },
+          { "id": "2", "type": "known_for" },
+          { "id": "8", "type": "known_for" },
+          { "id": "1", "type": "known_for" }
+        ]
+      },
+      "photos": { "data": [{ "id": "704", "type": "photo" }] },
+      "travelers": {
+        "data": [
+          { "id": "2608", "type": "user" },
+          { "id": "1670", "type": "user" },
+          { "id": "2081", "type": "user" },
+          { "id": "2596", "type": "user" },
+          { "id": "634", "type": "user" }
+        ]
+      }
+    }
+  },
+  "included": [
+    {
+      "id": "10935558",
+      "type": "destination",
+      "attributes": {
+        "slug": "asia",
+        "destination_type": "Continent",
+        "short_name": "Asia",
+        "name": "Asia",
+        "long_name": "Asia",
+        "latitude": 53.1108,
+        "longitude": 103.2942,
+        "bounding_box": {
+          "sw_lon": 21.15084,
+          "sw_lat": -12.136633,
+          "ne_lon": 179.0,
+          "ne_lat": 78.256052
+        },
+        "countable": true,
+        "average_rating": 4.66666666666667,
+        "check_in_count": 13256
+      },
+      "relationships": {
+        "known_for": { "data": [] },
+        "featured_photo": { "data": { "id": "549", "type": "photo" } }
+      }
+    },
+    {
+      "id": "549",
+      "type": "photo",
+      "attributes": {
+        "image": {
+          "full": "https://cdn.roadgoat.com/uploads/photo/image/549/travel-guide-of-cambodia-original.jpg",
+          "large": "https://cdn.roadgoat.com/uploads/photo/image/549/large_travel-guide-of-cambodia-original.jpg",
+          "medium": "https://cdn.roadgoat.com/uploads/photo/image/549/medium_travel-guide-of-cambodia-original.jpg",
+          "thumb": "https://cdn.roadgoat.com/uploads/photo/image/549/thumb_travel-guide-of-cambodia-original.jpg",
+          "avatar": "https://cdn.roadgoat.com/uploads/photo/image/549/avatar_travel-guide-of-cambodia-original.jpg"
+        }
+      }
+    },
+    {
+      "id": "12",
+      "type": "known_for",
+      "attributes": {
+        "slug": "charming",
+        "name": "Charming",
+        "icon": "https://cdn.roadgoat.com/images/shared/icons/known-for/charming"
+      }
+    },
+    {
+      "id": "4",
+      "type": "known_for",
+      "attributes": {
+        "slug": "foodie",
+        "name": "Foodie",
+        "icon": "https://cdn.roadgoat.com/images/shared/icons/known-for/foodie"
+      }
+    },
+    {
+      "id": "3",
+      "type": "known_for",
+      "attributes": {
+        "slug": "nightlife",
+        "name": "Nightlife",
+        "icon": "https://cdn.roadgoat.com/images/shared/icons/known-for/nightlife"
+      }
+    },
+    {
+      "id": "17",
+      "type": "known_for",
+      "attributes": {
+        "slug": "architecture",
+        "name": "Architecture",
+        "icon": "https://cdn.roadgoat.com/images/shared/icons/known-for/architecture"
+      }
+    },
+    {
+      "id": "2",
+      "type": "known_for",
+      "attributes": {
+        "slug": "history",
+        "name": "History",
+        "icon": "https://cdn.roadgoat.com/images/shared/icons/known-for/history"
+      }
+    },
+    {
+      "id": "8",
+      "type": "known_for",
+      "attributes": {
+        "slug": "museums",
+        "name": "Museums",
+        "icon": "https://cdn.roadgoat.com/images/shared/icons/known-for/museums"
+      }
+    },
+    {
+      "id": "1",
+      "type": "known_for",
+      "attributes": {
+        "slug": "beach-town",
+        "name": "Beach Town",
+        "icon": "https://cdn.roadgoat.com/images/shared/icons/known-for/beach-town"
+      }
+    },
+    {
+      "id": "2009401",
+      "type": "destination",
+      "attributes": {
+        "slug": "turkey",
+        "destination_type": "Country",
+        "short_name": "Turkey",
+        "name": "Turkey",
+        "long_name": "Turkey",
+        "latitude": 39.0,
+        "longitude": 35.0,
+        "bounding_box": {
+          "sw_lon": 25.668501,
+          "sw_lat": 35.815418,
+          "ne_lon": 44.834999,
+          "ne_lat": 42.107613
+        },
+        "countable": true,
+        "average_rating": 4.33333333333333,
+        "check_in_count": 6620
+      },
+      "relationships": {
+        "known_for": { "data": [] },
+        "featured_photo": { "data": { "id": "2396", "type": "photo" } }
+      }
+    },
+    {
+      "id": "2396",
+      "type": "photo",
+      "attributes": {
+        "image": {
+          "full": "https://cdn.roadgoat.com/uploads/photo/image/2396/4189574345_8f7d3ccae3_o.jpg",
+          "large": "https://cdn.roadgoat.com/uploads/photo/image/2396/large_4189574345_8f7d3ccae3_o.jpg",
+          "medium": "https://cdn.roadgoat.com/uploads/photo/image/2396/medium_4189574345_8f7d3ccae3_o.jpg",
+          "thumb": "https://cdn.roadgoat.com/uploads/photo/image/2396/thumb_4189574345_8f7d3ccae3_o.jpg",
+          "avatar": "https://cdn.roadgoat.com/uploads/photo/image/2396/avatar_4189574345_8f7d3ccae3_o.jpg"
+        }
+      }
+    },
+    {
+      "id": "704",
+      "type": "photo",
+      "attributes": {
+        "image": {
+          "full": "https://cdn.roadgoat.com/uploads/photo/image/704/travel-guide-of-istanbul-turkey-original.jpg",
+          "large": "https://cdn.roadgoat.com/uploads/photo/image/704/large_travel-guide-of-istanbul-turkey-original.jpg",
+          "medium": "https://cdn.roadgoat.com/uploads/photo/image/704/medium_travel-guide-of-istanbul-turkey-original.jpg",
+          "thumb": "https://cdn.roadgoat.com/uploads/photo/image/704/thumb_travel-guide-of-istanbul-turkey-original.jpg",
+          "avatar": "https://cdn.roadgoat.com/uploads/photo/image/704/avatar_travel-guide-of-istanbul-turkey-original.jpg"
+        }
+      }
+    },
+    {
+      "id": "2608",
+      "type": "user",
+      "attributes": {
+        "name": "Alain Labrique",
+        "url": "https://www.roadgoat.com/travelers/alain-labrique",
+        "avatar_url": "https://cdn.roadgoat.com/uploads/user/avatar/2608/avatar_unnamed.jpg"
+      }
+    },
+    {
+      "id": "1670",
+      "type": "user",
+      "attributes": {
+        "name": "Traci Duez",
+        "url": "https://www.roadgoat.com/travelers/traci-duez",
+        "avatar_url": "https://cdn.roadgoat.com/uploads/user/avatar/1670/avatar_profilepic.jpeg"
+      }
+    },
+    {
+      "id": "2081",
+      "type": "user",
+      "attributes": {
+        "name": "Michael Fowler",
+        "url": "https://www.roadgoat.com/travelers/michael-fowler",
+        "avatar_url": "https://cdn.roadgoat.com/uploads/user/avatar/2081/avatar_profilepic.jpeg"
+      }
+    },
+    {
+      "id": "2596",
+      "type": "user",
+      "attributes": {
+        "name": "Pål Roaldsøy",
+        "url": "https://www.roadgoat.com/travelers/pal-roaldsoy",
+        "avatar_url": "https://cdn.roadgoat.com/uploads/user/avatar/2596/avatar_unnamed.png"
+      }
+    },
+    {
+      "id": "634",
+      "type": "user",
+      "attributes": {
+        "name": "Michael Dalesandro",
+        "url": "https://www.roadgoat.com/travelers/michael-dalesandro",
+        "avatar_url": "https://cdn.roadgoat.com/uploads/user/avatar/634/avatar_profilepic.jpeg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,235 @@
+{
+  "data": {
+    "id": "8318469",
+    "type": "destination",
+    "attributes": {
+      "slug": "delhi-india",
+      "url": "https://www.roadgoat.com/travel-guides/delhi-india",
+      "destination_type": "City",
+      "short_name": "Delhi",
+      "name": "Delhi, India",
+      "long_name": "Delhi, India",
+      "population": 10927986,
+      "latitude": 28.65195,
+      "longitude": 77.23149,
+      "bounding_box": null,
+      "geonames_id": 1273294,
+      "walk_score_url": null,
+      "budget": {
+        "Delhi, India": {
+          "value": 2,
+          "text": "Low",
+          "subText": "Nifty and thrifty"
+        },
+        "India": { "value": 1, "text": "Very Low", "subText": "Budget GOAT" }
+      },
+      "safety": {},
+      "covid": {
+        "India": {
+          "value": 0.0612811408577194,
+          "url": "https://www.worldometers.info/coronavirus/",
+          "text": "Low"
+        }
+      },
+      "average_rating": 3.83333333333333,
+      "check_in_count": 896,
+      "google_events_url": "https://www.google.com/search?q=events+delhi+india\u0026ibp=htl;events",
+      "vrbo_url": "https://vrbo.prf.hn/click/camref:1101ljbvy/creativeref:1101l63118/destination:https://www.vrbo.com/search/keywords:delhi-india",
+      "alltrails_url": "https://www.alltrails.com/explore?b_tl_lat=29.25\u0026b_tl_lng=76.63\u0026b_br_lat=28.05\u0026b_br_lng=77.83",
+      "open_elevation_url": "https://api.open-elevation.com/api/v1/lookup?locations=28.65195,77.23149",
+      "foursquare_url": "https://api.foursquare.com/v2/venues/search?ll=28.65195,77.23149\u0026radius=100000",
+      "kayak_car_rental_url": "https://www.kayak.com/in?a=roadgoatdl\u0026url=/cars/Delhi%2CIndia/Delhi%2CIndia/2022-11-26/2022-12-03/?sort=price_a",
+      "kayak_lodgings_url": "https://www.kayak.com/in?a=roadgoatdl\u0026url=/hotels/Delhi%2CIndia/2022-11-26/2022-12-03/1adults?sort=userrating_b",
+      "airbnb_url": "https://www.airbnb.com/s/Delhi%2C+India/homes",
+      "getyourguide_url": "https://getyourguide.com/s/?q=Delhi%2C+India\u0026partner_id=0TQGVTE",
+      "wikipedia_url": "http://en.wikipedia.org/wiki/Delhi",
+      "woe_id": 2295019,
+      "alternate_names": ["Delhi"],
+      "iso2": null,
+      "iso3": null,
+      "languages": null,
+      "currency_code": null,
+      "currency_name": null,
+      "phone_prefix": null,
+      "capital": null,
+      "top_cities_and_towns": []
+    },
+    "relationships": {
+      "state": { "data": null },
+      "country": { "data": { "id": "2008594", "type": "destination" } },
+      "continent": { "data": { "id": "10935558", "type": "destination" } },
+      "known_for": {
+        "data": [
+          { "id": "12", "type": "known_for" },
+          { "id": "4", "type": "known_for" }
+        ]
+      },
+      "photos": { "data": [{ "id": "1922", "type": "photo" }] },
+      "travelers": {
+        "data": [
+          { "id": "1731", "type": "user" },
+          { "id": "1598", "type": "user" },
+          { "id": "1142", "type": "user" },
+          { "id": "1419", "type": "user" },
+          { "id": "2793", "type": "user" }
+        ]
+      }
+    }
+  },
+  "included": [
+    {
+      "id": "10935558",
+      "type": "destination",
+      "attributes": {
+        "slug": "asia",
+        "destination_type": "Continent",
+        "short_name": "Asia",
+        "name": "Asia",
+        "long_name": "Asia",
+        "latitude": 53.1108,
+        "longitude": 103.2942,
+        "bounding_box": {
+          "sw_lon": 21.15084,
+          "sw_lat": -12.136633,
+          "ne_lon": 179.0,
+          "ne_lat": 78.256052
+        },
+        "countable": true,
+        "average_rating": 4.66666666666667,
+        "check_in_count": 13256
+      },
+      "relationships": {
+        "known_for": { "data": [] },
+        "featured_photo": { "data": { "id": "549", "type": "photo" } }
+      }
+    },
+    {
+      "id": "549",
+      "type": "photo",
+      "attributes": {
+        "image": {
+          "full": "https://cdn.roadgoat.com/uploads/photo/image/549/travel-guide-of-cambodia-original.jpg",
+          "large": "https://cdn.roadgoat.com/uploads/photo/image/549/large_travel-guide-of-cambodia-original.jpg",
+          "medium": "https://cdn.roadgoat.com/uploads/photo/image/549/medium_travel-guide-of-cambodia-original.jpg",
+          "thumb": "https://cdn.roadgoat.com/uploads/photo/image/549/thumb_travel-guide-of-cambodia-original.jpg",
+          "avatar": "https://cdn.roadgoat.com/uploads/photo/image/549/avatar_travel-guide-of-cambodia-original.jpg"
+        }
+      }
+    },
+    {
+      "id": "12",
+      "type": "known_for",
+      "attributes": {
+        "slug": "charming",
+        "name": "Charming",
+        "icon": "https://cdn.roadgoat.com/images/shared/icons/known-for/charming"
+      }
+    },
+    {
+      "id": "4",
+      "type": "known_for",
+      "attributes": {
+        "slug": "foodie",
+        "name": "Foodie",
+        "icon": "https://cdn.roadgoat.com/images/shared/icons/known-for/foodie"
+      }
+    },
+    {
+      "id": "2008594",
+      "type": "destination",
+      "attributes": {
+        "slug": "india",
+        "destination_type": "Country",
+        "short_name": "India",
+        "name": "India",
+        "long_name": "India",
+        "latitude": 22.0,
+        "longitude": 79.0,
+        "bounding_box": {
+          "sw_lon": 68.4840183183648,
+          "sw_lat": 6.7559528993543,
+          "ne_lon": 97.4152926679075,
+          "ne_lat": 35.9952871999878
+        },
+        "countable": true,
+        "average_rating": 4.25,
+        "check_in_count": 4677
+      },
+      "relationships": {
+        "known_for": { "data": [] },
+        "featured_photo": { "data": { "id": "2272", "type": "photo" } }
+      }
+    },
+    {
+      "id": "2272",
+      "type": "photo",
+      "attributes": {
+        "image": {
+          "full": "https://cdn.roadgoat.com/uploads/photo/image/2272/yang-jing-JIjCxenDxPY-unsplash.jpg",
+          "large": "https://cdn.roadgoat.com/uploads/photo/image/2272/large_yang-jing-JIjCxenDxPY-unsplash.jpg",
+          "medium": "https://cdn.roadgoat.com/uploads/photo/image/2272/medium_yang-jing-JIjCxenDxPY-unsplash.jpg",
+          "thumb": "https://cdn.roadgoat.com/uploads/photo/image/2272/thumb_yang-jing-JIjCxenDxPY-unsplash.jpg",
+          "avatar": "https://cdn.roadgoat.com/uploads/photo/image/2272/avatar_yang-jing-JIjCxenDxPY-unsplash.jpg"
+        }
+      }
+    },
+    {
+      "id": "1922",
+      "type": "photo",
+      "attributes": {
+        "image": {
+          "full": "https://cdn.roadgoat.com/uploads/photo/image/1922/delhi.jpeg",
+          "large": "https://cdn.roadgoat.com/uploads/photo/image/1922/large_delhi.jpeg",
+          "medium": "https://cdn.roadgoat.com/uploads/photo/image/1922/medium_delhi.jpeg",
+          "thumb": "https://cdn.roadgoat.com/uploads/photo/image/1922/thumb_delhi.jpeg",
+          "avatar": "https://cdn.roadgoat.com/uploads/photo/image/1922/avatar_delhi.jpeg"
+        }
+      }
+    },
+    {
+      "id": "1731",
+      "type": "user",
+      "attributes": {
+        "name": "DrSheenu Sanjeev",
+        "url": "https://www.roadgoat.com/travelers/drsheenu-sanjeev",
+        "avatar_url": "https://cdn.roadgoat.com/uploads/user/avatar/1731/avatar_profilepic.jpeg"
+      }
+    },
+    {
+      "id": "1598",
+      "type": "user",
+      "attributes": {
+        "name": "Rohann Ghate",
+        "url": "https://www.roadgoat.com/travelers/rohann-ghate",
+        "avatar_url": "https://cdn.roadgoat.com/uploads/user/avatar/1598/avatar_profilepic.jpeg"
+      }
+    },
+    {
+      "id": "1142",
+      "type": "user",
+      "attributes": {
+        "name": "Claudio Moderini",
+        "url": "https://www.roadgoat.com/travelers/claudio-moderini",
+        "avatar_url": "https://cdn.roadgoat.com/uploads/user/avatar/1142/avatar_photo.jpg"
+      }
+    },
+    {
+      "id": "1419",
+      "type": "user",
+      "attributes": {
+        "name": "Andrew Excell",
+        "url": "https://www.roadgoat.com/travelers/andrew-excell",
+        "avatar_url": "https://cdn.roadgoat.com/uploads/user/avatar/1419/avatar_profilepic.jpeg"
+      }
+    },
+    {
+      "id": "2793",
+      "type": "user",
+      "attributes": {
+        "name": "Lokesh Dhakar",
+        "url": "https://www.roadgoat.com/travelers/lokesh-dhakar",
+        "avatar_url": null
+      }
+    }
+  ]
+}

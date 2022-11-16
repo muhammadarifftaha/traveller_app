@@ -1,0 +1,101 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Rubik:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+@import "bootstrap";
+
+* {
+  font-family: "Rubik", sans-serif;
+}
+
+html {
+  overflow: auto;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  position: relative;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.App {
+  text-align: center;
+  width: 100vw;
+  /* position: relative; */
+  height: 100vh;
+  max-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+footer.footer {
+  /* position: absolute; */
+  width: 100%;
+  bottom: 0;
+  padding: 1em 0;
+}
+
+#landing-text {
+  width: 25%;
+  margin-right: 3em;
+  text-align: end;
+}
+
+#landing {
+  background: linear-gradient(
+    90deg,
+    rgba(0, 0, 0, 0),
+    rgba(255, 255, 255, 0.5),
+    rgba(255, 255, 255, 0.9)
+  );
+}
+
+.slides {
+  z-index: -1;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.attraction-modal {
+  --bs-modal-width: 90vw !important;
+  margin: auto;
+}
+
+.carousel-item img {
+  height: 50vh;
+}
+
+@media (max-width: 575.98px) {
+  #landing {
+    background: linear-gradient(
+      90deg,
+      rgba(255, 255, 255, 0.3),
+      rgba(255, 255, 255, 0.5),
+      rgba(255, 255, 255, 0.8)
+    );
+  }
+
+  #landing-text {
+    width: 80%;
+    margin-right: 1em;
+  }
+
+  .caption-landing {
+    width: 60%;
+    text-align: start;
+  }
+}
+
+.bg-carousel-img {
+  max-width: 100vw;
+  max-height: 100vh;
+  height: 100% !important;
+}

@@ -1,0 +1,266 @@
+{
+  "data": {
+    "id": "7018701",
+    "type": "destination",
+    "attributes": {
+      "slug": "beijing-china",
+      "url": "https://www.roadgoat.com/travel-guides/beijing-china",
+      "destination_type": "City",
+      "short_name": "Beijing",
+      "name": "Beijing, China",
+      "long_name": "Beijing, China",
+      "population": 11716620,
+      "latitude": 39.9075,
+      "longitude": 116.39723,
+      "bounding_box": null,
+      "geonames_id": 1816670,
+      "walk_score_url": null,
+      "budget": {
+        "Beijing, China": {
+          "value": 4,
+          "text": "Medium",
+          "subText": "Perfectly average"
+        },
+        "China": { "value": 2, "text": "Low", "subText": "Nifty and thrifty" }
+      },
+      "safety": {
+        "Beijing, China": {
+          "value": 4,
+          "text": "High",
+          "subText": "Exercise Normal Precaution"
+        },
+        "China": {
+          "value": 4,
+          "text": "High",
+          "subText": "Exercise Normal Precaution"
+        }
+      },
+      "covid": {
+        "China": {
+          "value": 0.0152574638339425,
+          "url": "https://www.worldometers.info/coronavirus/",
+          "text": "Low"
+        }
+      },
+      "average_rating": 3.72727272727273,
+      "check_in_count": 2054,
+      "google_events_url": "https://www.google.com/search?q=events+beijing+china\u0026ibp=htl;events",
+      "vrbo_url": "https://vrbo.prf.hn/click/camref:1101ljbvy/creativeref:1101l63118/destination:https://www.vrbo.com/search/keywords:beijing-china",
+      "alltrails_url": "https://www.alltrails.com/explore?b_tl_lat=40.51\u0026b_tl_lng=115.8\u0026b_br_lat=39.31\u0026b_br_lng=117.0",
+      "open_elevation_url": "https://api.open-elevation.com/api/v1/lookup?locations=39.9075,116.39723",
+      "foursquare_url": "https://api.foursquare.com/v2/venues/search?ll=39.9075,116.39723\u0026radius=100000",
+      "kayak_car_rental_url": "https://www.kayak.com/in?a=roadgoatdl\u0026url=/cars/Beijing%2CChina/Beijing%2CChina/2022-11-26/2022-12-03/?sort=price_a",
+      "kayak_lodgings_url": "https://www.kayak.com/in?a=roadgoatdl\u0026url=/hotels/Beijing%2CChina/2022-11-26/2022-12-03/1adults?sort=userrating_b",
+      "airbnb_url": "https://www.airbnb.com/s/Beijing%2C+China/homes",
+      "getyourguide_url": "https://getyourguide.com/s/?q=Beijing%2C+China\u0026partner_id=0TQGVTE",
+      "wikipedia_url": "http://en.wikipedia.org/wiki/Beijing",
+      "woe_id": null,
+      "alternate_names": ["Beijing"],
+      "iso2": null,
+      "iso3": null,
+      "languages": null,
+      "currency_code": null,
+      "currency_name": null,
+      "phone_prefix": null,
+      "capital": null,
+      "top_cities_and_towns": []
+    },
+    "relationships": {
+      "state": { "data": null },
+      "country": { "data": { "id": "2008651", "type": "destination" } },
+      "continent": { "data": { "id": "10935558", "type": "destination" } },
+      "known_for": {
+        "data": [
+          { "id": "4", "type": "known_for" },
+          { "id": "17", "type": "known_for" },
+          { "id": "2", "type": "known_for" },
+          { "id": "8", "type": "known_for" }
+        ]
+      },
+      "photos": { "data": [{ "id": "685", "type": "photo" }] },
+      "travelers": {
+        "data": [
+          { "id": "2122", "type": "user" },
+          { "id": "1379", "type": "user" },
+          { "id": "1614", "type": "user" },
+          { "id": "2381", "type": "user" },
+          { "id": "1571", "type": "user" }
+        ]
+      }
+    }
+  },
+  "included": [
+    {
+      "id": "10935558",
+      "type": "destination",
+      "attributes": {
+        "slug": "asia",
+        "destination_type": "Continent",
+        "short_name": "Asia",
+        "name": "Asia",
+        "long_name": "Asia",
+        "latitude": 53.1108,
+        "longitude": 103.2942,
+        "bounding_box": {
+          "sw_lon": 21.15084,
+          "sw_lat": -12.136633,
+          "ne_lon": 179.0,
+          "ne_lat": 78.256052
+        },
+        "countable": true,
+        "average_rating": 4.66666666666667,
+        "check_in_count": 13256
+      },
+      "relationships": {
+        "known_for": { "data": [] },
+        "featured_photo": { "data": { "id": "549", "type": "photo" } }
+      }
+    },
+    {
+      "id": "549",
+      "type": "photo",
+      "attributes": {
+        "image": {
+          "full": "https://cdn.roadgoat.com/uploads/photo/image/549/travel-guide-of-cambodia-original.jpg",
+          "large": "https://cdn.roadgoat.com/uploads/photo/image/549/large_travel-guide-of-cambodia-original.jpg",
+          "medium": "https://cdn.roadgoat.com/uploads/photo/image/549/medium_travel-guide-of-cambodia-original.jpg",
+          "thumb": "https://cdn.roadgoat.com/uploads/photo/image/549/thumb_travel-guide-of-cambodia-original.jpg",
+          "avatar": "https://cdn.roadgoat.com/uploads/photo/image/549/avatar_travel-guide-of-cambodia-original.jpg"
+        }
+      }
+    },
+    {
+      "id": "4",
+      "type": "known_for",
+      "attributes": {
+        "slug": "foodie",
+        "name": "Foodie",
+        "icon": "https://cdn.roadgoat.com/images/shared/icons/known-for/foodie"
+      }
+    },
+    {
+      "id": "17",
+      "type": "known_for",
+      "attributes": {
+        "slug": "architecture",
+        "name": "Architecture",
+        "icon": "https://cdn.roadgoat.com/images/shared/icons/known-for/architecture"
+      }
+    },
+    {
+      "id": "2",
+      "type": "known_for",
+      "attributes": {
+        "slug": "history",
+        "name": "History",
+        "icon": "https://cdn.roadgoat.com/images/shared/icons/known-for/history"
+      }
+    },
+    {
+      "id": "8",
+      "type": "known_for",
+      "attributes": {
+        "slug": "museums",
+        "name": "Museums",
+        "icon": "https://cdn.roadgoat.com/images/shared/icons/known-for/museums"
+      }
+    },
+    {
+      "id": "2008651",
+      "type": "destination",
+      "attributes": {
+        "slug": "china",
+        "destination_type": "Country",
+        "short_name": "China",
+        "name": "China",
+        "long_name": "China",
+        "latitude": 35.0,
+        "longitude": 105.0,
+        "bounding_box": {
+          "sw_lon": 73.557693,
+          "sw_lat": 15.775416,
+          "ne_lon": 134.773911,
+          "ne_lat": 53.56086
+        },
+        "countable": true,
+        "average_rating": 4.02777777777778,
+        "check_in_count": 5593
+      },
+      "relationships": {
+        "known_for": { "data": [] },
+        "featured_photo": { "data": { "id": "2132", "type": "photo" } }
+      }
+    },
+    {
+      "id": "2132",
+      "type": "photo",
+      "attributes": {
+        "image": {
+          "full": "https://cdn.roadgoat.com/uploads/photo/image/2132/aaron-greenwood-xZDWEEMS3sA-unsplash.jpg",
+          "large": "https://cdn.roadgoat.com/uploads/photo/image/2132/large_aaron-greenwood-xZDWEEMS3sA-unsplash.jpg",
+          "medium": "https://cdn.roadgoat.com/uploads/photo/image/2132/medium_aaron-greenwood-xZDWEEMS3sA-unsplash.jpg",
+          "thumb": "https://cdn.roadgoat.com/uploads/photo/image/2132/thumb_aaron-greenwood-xZDWEEMS3sA-unsplash.jpg",
+          "avatar": "https://cdn.roadgoat.com/uploads/photo/image/2132/avatar_aaron-greenwood-xZDWEEMS3sA-unsplash.jpg"
+        }
+      }
+    },
+    {
+      "id": "685",
+      "type": "photo",
+      "attributes": {
+        "image": {
+          "full": "https://cdn.roadgoat.com/uploads/photo/image/685/travel-guide-of-beijing-china-original.jpg",
+          "large": "https://cdn.roadgoat.com/uploads/photo/image/685/large_travel-guide-of-beijing-china-original.jpg",
+          "medium": "https://cdn.roadgoat.com/uploads/photo/image/685/medium_travel-guide-of-beijing-china-original.jpg",
+          "thumb": "https://cdn.roadgoat.com/uploads/photo/image/685/thumb_travel-guide-of-beijing-china-original.jpg",
+          "avatar": "https://cdn.roadgoat.com/uploads/photo/image/685/avatar_travel-guide-of-beijing-china-original.jpg"
+        }
+      }
+    },
+    {
+      "id": "2122",
+      "type": "user",
+      "attributes": {
+        "name": "Robert Lachance",
+        "url": "https://www.roadgoat.com/travelers/robert-lachance",
+        "avatar_url": "https://cdn.roadgoat.com/uploads/user/avatar/2122/avatar_profilepic.jpeg"
+      }
+    },
+    {
+      "id": "1379",
+      "type": "user",
+      "attributes": {
+        "name": "H M",
+        "url": "https://www.roadgoat.com/travelers/h-m",
+        "avatar_url": "https://cdn.roadgoat.com/uploads/user/avatar/1379/avatar_photo.jpg"
+      }
+    },
+    {
+      "id": "1614",
+      "type": "user",
+      "attributes": {
+        "name": "Christine Sandilands",
+        "url": "https://www.roadgoat.com/travelers/christine-sandilands",
+        "avatar_url": "https://cdn.roadgoat.com/uploads/user/avatar/1614/avatar_profilepic.jpeg"
+      }
+    },
+    {
+      "id": "2381",
+      "type": "user",
+      "attributes": {
+        "name": "Michelle Tanaka",
+        "url": "https://www.roadgoat.com/travelers/michelle-tanaka",
+        "avatar_url": "https://cdn.roadgoat.com/uploads/user/avatar/2381/avatar_unnamed.jpg"
+      }
+    },
+    {
+      "id": "1571",
+      "type": "user",
+      "attributes": {
+        "name": "Rich Holmes",
+        "url": "https://www.roadgoat.com/travelers/rich-holmes",
+        "avatar_url": "https://cdn.roadgoat.com/uploads/user/avatar/1571/avatar_profilepic.jpeg"
+      }
+    }
+  ]
+}

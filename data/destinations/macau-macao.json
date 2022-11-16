@@ -1,0 +1,204 @@
+{
+  "data": {
+    "id": "9308557",
+    "type": "destination",
+    "attributes": {
+      "slug": "macau-macao",
+      "url": "https://www.roadgoat.com/travel-guides/macau-macao",
+      "destination_type": "City",
+      "short_name": "Macau",
+      "name": "Macau, Macao",
+      "long_name": "Macau, Macao (China)",
+      "population": 520400,
+      "latitude": 22.20056,
+      "longitude": 113.54611,
+      "bounding_box": null,
+      "geonames_id": 1821274,
+      "walk_score_url": null,
+      "budget": {
+        "Macau, Macao": {
+          "value": 4,
+          "text": "Medium",
+          "subText": "Perfectly average"
+        }
+      },
+      "safety": {
+        "Macau, Macao": {
+          "value": 5,
+          "text": "Very High",
+          "subText": "Exercise Normal Precaution"
+        }
+      },
+      "covid": {
+        "Macao (China)": {
+          "value": 0.0,
+          "url": "https://www.worldometers.info/coronavirus/",
+          "text": "Low"
+        }
+      },
+      "average_rating": 4.0,
+      "check_in_count": 323,
+      "google_events_url": "https://www.google.com/search?q=events+macau+macao\u0026ibp=htl;events",
+      "vrbo_url": "https://vrbo.prf.hn/click/camref:1101ljbvy/creativeref:1101l63118/destination:https://www.vrbo.com/search/keywords:macau-macao",
+      "alltrails_url": "https://www.alltrails.com/explore?b_tl_lat=22.8\u0026b_tl_lng=112.95\u0026b_br_lat=21.6\u0026b_br_lng=114.15",
+      "open_elevation_url": "https://api.open-elevation.com/api/v1/lookup?locations=22.20056,113.54611",
+      "foursquare_url": "https://api.foursquare.com/v2/venues/search?ll=22.20056,113.54611\u0026radius=100000",
+      "kayak_car_rental_url": "https://www.kayak.com/in?a=roadgoatdl\u0026url=/cars/Macau%2CMacao/Macau%2CMacao/2022-11-26/2022-12-03/?sort=price_a",
+      "kayak_lodgings_url": "https://www.kayak.com/in?a=roadgoatdl\u0026url=/hotels/Macau%2CMacao/2022-11-26/2022-12-03/1adults?sort=userrating_b",
+      "airbnb_url": "https://www.airbnb.com/s/Macau%2C+Macao/homes",
+      "getyourguide_url": "https://getyourguide.com/s/?q=Macau%2C+Macao\u0026partner_id=0TQGVTE",
+      "wikipedia_url": "http://en.wikipedia.org/wiki/Macau",
+      "woe_id": 1887901,
+      "alternate_names": ["Macau", "Macao"],
+      "iso2": null,
+      "iso3": null,
+      "languages": null,
+      "currency_code": null,
+      "currency_name": null,
+      "phone_prefix": null,
+      "capital": null,
+      "top_cities_and_towns": []
+    },
+    "relationships": {
+      "state": { "data": null },
+      "country": { "data": { "id": "5037301", "type": "destination" } },
+      "continent": { "data": { "id": "10935558", "type": "destination" } },
+      "known_for": { "data": [] },
+      "photos": { "data": [{ "id": "1139", "type": "photo" }] },
+      "travelers": {
+        "data": [
+          { "id": "2058", "type": "user" },
+          { "id": "2407", "type": "user" },
+          { "id": "546", "type": "user" },
+          { "id": "829", "type": "user" },
+          { "id": "1856", "type": "user" }
+        ]
+      }
+    }
+  },
+  "included": [
+    {
+      "id": "10935558",
+      "type": "destination",
+      "attributes": {
+        "slug": "asia",
+        "destination_type": "Continent",
+        "short_name": "Asia",
+        "name": "Asia",
+        "long_name": "Asia",
+        "latitude": 53.1108,
+        "longitude": 103.2942,
+        "bounding_box": {
+          "sw_lon": 21.15084,
+          "sw_lat": -12.136633,
+          "ne_lon": 179.0,
+          "ne_lat": 78.256052
+        },
+        "countable": true,
+        "average_rating": 4.66666666666667,
+        "check_in_count": 13256
+      },
+      "relationships": {
+        "known_for": { "data": [] },
+        "featured_photo": { "data": { "id": "549", "type": "photo" } }
+      }
+    },
+    {
+      "id": "549",
+      "type": "photo",
+      "attributes": {
+        "image": {
+          "full": "https://cdn.roadgoat.com/uploads/photo/image/549/travel-guide-of-cambodia-original.jpg",
+          "large": "https://cdn.roadgoat.com/uploads/photo/image/549/large_travel-guide-of-cambodia-original.jpg",
+          "medium": "https://cdn.roadgoat.com/uploads/photo/image/549/medium_travel-guide-of-cambodia-original.jpg",
+          "thumb": "https://cdn.roadgoat.com/uploads/photo/image/549/thumb_travel-guide-of-cambodia-original.jpg",
+          "avatar": "https://cdn.roadgoat.com/uploads/photo/image/549/avatar_travel-guide-of-cambodia-original.jpg"
+        }
+      }
+    },
+    {
+      "id": "5037301",
+      "type": "destination",
+      "attributes": {
+        "slug": "macao",
+        "destination_type": "Country",
+        "short_name": "Macao",
+        "name": "Macao (China)",
+        "long_name": "Macao (China)",
+        "latitude": 22.15778,
+        "longitude": 113.55972,
+        "bounding_box": {
+          "sw_lon": 113.528946,
+          "sw_lat": 22.180389,
+          "ne_lon": 113.565834,
+          "ne_lat": 22.222334
+        },
+        "countable": true,
+        "average_rating": 4.33333333333333,
+        "check_in_count": 1436
+      },
+      "relationships": {
+        "known_for": { "data": [] },
+        "featured_photo": { "data": { "id": "1139", "type": "photo" } }
+      }
+    },
+    {
+      "id": "1139",
+      "type": "photo",
+      "attributes": {
+        "image": {
+          "full": "https://cdn.roadgoat.com/uploads/photo/image/1139/travel-guide-of-macau-macao-original.jpg",
+          "large": "https://cdn.roadgoat.com/uploads/photo/image/1139/large_travel-guide-of-macau-macao-original.jpg",
+          "medium": "https://cdn.roadgoat.com/uploads/photo/image/1139/medium_travel-guide-of-macau-macao-original.jpg",
+          "thumb": "https://cdn.roadgoat.com/uploads/photo/image/1139/thumb_travel-guide-of-macau-macao-original.jpg",
+          "avatar": "https://cdn.roadgoat.com/uploads/photo/image/1139/avatar_travel-guide-of-macau-macao-original.jpg"
+        }
+      }
+    },
+    {
+      "id": "2058",
+      "type": "user",
+      "attributes": {
+        "name": "Norbert Pósán",
+        "url": "https://www.roadgoat.com/travelers/norbert-posan",
+        "avatar_url": "https://cdn.roadgoat.com/uploads/user/avatar/2058/avatar_profilepic.jpeg"
+      }
+    },
+    {
+      "id": "2407",
+      "type": "user",
+      "attributes": {
+        "name": "JP Revel",
+        "url": "https://www.roadgoat.com/travelers/jp-revel",
+        "avatar_url": "https://cdn.roadgoat.com/uploads/user/avatar/2407/avatar_japes.jpg"
+      }
+    },
+    {
+      "id": "546",
+      "type": "user",
+      "attributes": {
+        "name": "Misha Leybovich",
+        "url": "https://www.roadgoat.com/travelers/misha-leybovich",
+        "avatar_url": "https://cdn.roadgoat.com/uploads/user/avatar/546/avatar_profilepic.jpeg"
+      }
+    },
+    {
+      "id": "829",
+      "type": "user",
+      "attributes": {
+        "name": "Jocelyne",
+        "url": "https://www.roadgoat.com/travelers/jocelyne-chan",
+        "avatar_url": "https://cdn.roadgoat.com/uploads/user/avatar/829/avatar_profilepic.jpeg"
+      }
+    },
+    {
+      "id": "1856",
+      "type": "user",
+      "attributes": {
+        "name": "Marion York",
+        "url": "https://www.roadgoat.com/travelers/marion-york",
+        "avatar_url": "https://cdn.roadgoat.com/uploads/user/avatar/1856/avatar_profilepic.jpeg"
+      }
+    }
+  ]
+}
